@@ -1,0 +1,389 @@
+
+#logo a img{
+	max-width:none;
+	width:280px;	height:87px;	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+
+/*----------------------  Header --------------------------*/
+
+
+#page_header.zn_def_header_style , #slideshow.zn_def_header_style , #page_header.uh_zn_def_header_style , #slideshow.uh_zn_def_header_style{
+background-color:#AAAAAA;}
+
+#page_header.zn_def_header_style #sparkles, #slideshow.zn_def_header_style #sparkles , #page_header.uh_zn_def_header_style #sparkles, #slideshow.uh_zn_def_header_style #sparkles {
+}
+
+#page_header.zn_def_header_style .bgback , #slideshow.zn_def_header_style .bgback , #page_header.uh_zn_def_header_style .bgback , #slideshow.uh_zn_def_header_style .bgback{
+}
+
+#page_header.zn_def_header_style , #slideshow.zn_def_header_style {background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}
+
+
+/*----------------------  Unlimited Headers --------------------------*/
+
+#page_header.uh_custom .bgback , #slideshow.uh_custom .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/Untitled-13.jpg");}#page_header.uh_custom #sparkles , #slideshow.uh_custom #sparkles{display:none}#page_header.uh_custom , #slideshow.uh_custom {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_custom .zn_header_bottom_style , #slideshow.uh_custom .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_custom .zn_header_bottom_style:after , #slideshow.uh_custom .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_custom, #slideshow.uh_custom {border-bottom:6px solid #FFFFFF}#page_header.uh_custom .zn_header_bottom_style:before , #slideshow.uh_custom .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_about_home_gens .bgback , #slideshow.uh_about_home_gens .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/aab57365_rgb_502-2.jpg");}#page_header.uh_about_home_gens #sparkles , #slideshow.uh_about_home_gens #sparkles{display:none}#page_header.uh_about_home_gens , #slideshow.uh_about_home_gens {background-color:#ffffff;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_about_home_gens .zn_header_bottom_style , #slideshow.uh_about_home_gens .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_about_home_gens .zn_header_bottom_style:after , #slideshow.uh_about_home_gens .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_about_home_gens, #slideshow.uh_about_home_gens {border-bottom:6px solid #FFFFFF}#page_header.uh_about_home_gens .zn_header_bottom_style:before , #slideshow.uh_about_home_gens .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_installation .bgback , #slideshow.uh_installation .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/aab21409_5022.jpg");}#page_header.uh_installation #sparkles , #slideshow.uh_installation #sparkles{display:none}#page_header.uh_installation , #slideshow.uh_installation {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_installation .zn_header_bottom_style , #slideshow.uh_installation .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_installation .zn_header_bottom_style:after , #slideshow.uh_installation .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_installation, #slideshow.uh_installation {border-bottom:6px solid #FFFFFF}#page_header.uh_installation .zn_header_bottom_style:before , #slideshow.uh_installation .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_about_commercial_gens .bgback , #slideshow.uh_about_commercial_gens .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/aab57370_rgb_502-2.jpg");}#page_header.uh_about_commercial_gens #sparkles , #slideshow.uh_about_commercial_gens #sparkles{display:none}#page_header.uh_about_commercial_gens , #slideshow.uh_about_commercial_gens {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_about_commercial_gens .zn_header_bottom_style , #slideshow.uh_about_commercial_gens .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_about_commercial_gens .zn_header_bottom_style:after , #slideshow.uh_about_commercial_gens .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_about_commercial_gens, #slideshow.uh_about_commercial_gens {border-bottom:6px solid #FFFFFF}#page_header.uh_about_commercial_gens .zn_header_bottom_style:before , #slideshow.uh_about_commercial_gens .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_get_a_quote .bgback , #slideshow.uh_get_a_quote .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/aab57370_rgb_502-23.jpg");}#page_header.uh_get_a_quote #sparkles , #slideshow.uh_get_a_quote #sparkles{display:none}#page_header.uh_get_a_quote , #slideshow.uh_get_a_quote {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_get_a_quote .zn_header_bottom_style , #slideshow.uh_get_a_quote .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_get_a_quote .zn_header_bottom_style:after , #slideshow.uh_get_a_quote .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_get_a_quote, #slideshow.uh_get_a_quote {border-bottom:6px solid #FFFFFF}#page_header.uh_get_a_quote .zn_header_bottom_style:before , #slideshow.uh_get_a_quote .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_why_us .bgback , #slideshow.uh_why_us .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/11/why21.jpg");}#page_header.uh_why_us #sparkles , #slideshow.uh_why_us #sparkles{display:none}#page_header.uh_why_us , #slideshow.uh_why_us {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_why_us .zn_header_bottom_style , #slideshow.uh_why_us .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_why_us .zn_header_bottom_style:after , #slideshow.uh_why_us .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_why_us, #slideshow.uh_why_us {border-bottom:6px solid #FFFFFF}#page_header.uh_why_us .zn_header_bottom_style:before , #slideshow.uh_why_us .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_faq .bgback , #slideshow.uh_faq .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/11/maxresdefault.jpg");}#page_header.uh_faq #sparkles , #slideshow.uh_faq #sparkles{display:none}#page_header.uh_faq , #slideshow.uh_faq {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_faq .zn_header_bottom_style , #slideshow.uh_faq .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_faq .zn_header_bottom_style:after , #slideshow.uh_faq .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_faq, #slideshow.uh_faq {border-bottom:6px solid #FFFFFF}#page_header.uh_faq .zn_header_bottom_style:before , #slideshow.uh_faq .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_industrial_generatoirs .bgback , #slideshow.uh_industrial_generatoirs .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/11/rrr1.jpg");}#page_header.uh_industrial_generatoirs #sparkles , #slideshow.uh_industrial_generatoirs #sparkles{display:none}#page_header.uh_industrial_generatoirs , #slideshow.uh_industrial_generatoirs {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_industrial_generatoirs .zn_header_bottom_style , #slideshow.uh_industrial_generatoirs .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_industrial_generatoirs .zn_header_bottom_style:after , #slideshow.uh_industrial_generatoirs .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_industrial_generatoirs, #slideshow.uh_industrial_generatoirs {border-bottom:6px solid #FFFFFF}#page_header.uh_industrial_generatoirs .zn_header_bottom_style:before , #slideshow.uh_industrial_generatoirs .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_faq2 .bgback , #slideshow.uh_faq2 .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/11/maxresdefault.jpg");}#page_header.uh_faq2 #sparkles , #slideshow.uh_faq2 #sparkles{display:none}#page_header.uh_faq2 , #slideshow.uh_faq2 {background-color:#f5f5f5;}#page_header.uh_faq2 .zn_header_bottom_style , #slideshow.uh_faq2 .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_faq2 .zn_header_bottom_style:after , #slideshow.uh_faq2 .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_faq2, #slideshow.uh_faq2 {border-bottom:6px solid #FFFFFF}#page_header.uh_faq2 .zn_header_bottom_style:before , #slideshow.uh_faq2 .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_contact .bgback , #slideshow.uh_contact .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/11/maxresdefault.jpg");}#page_header.uh_contact #sparkles , #slideshow.uh_contact #sparkles{display:none}#page_header.uh_contact , #slideshow.uh_contact {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_contact .zn_header_bottom_style , #slideshow.uh_contact .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_contact .zn_header_bottom_style:after , #slideshow.uh_contact .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_contact, #slideshow.uh_contact {border-bottom:6px solid #FFFFFF}#page_header.uh_contact .zn_header_bottom_style:before , #slideshow.uh_contact .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}#page_header.uh_recent_projects .bgback , #slideshow.uh_recent_projects .bgback {background-image:url("http://poweraidcanada.com/wp-content/uploads/2014/10/Untitled-13.jpg");}#page_header.uh_recent_projects #sparkles , #slideshow.uh_recent_projects #sparkles{display:none}#page_header.uh_recent_projects , #slideshow.uh_recent_projects {background-color:#AAAAAA;background-image: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */background-image: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */background-image: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */background-image: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */background-image: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */}#page_header.uh_recent_projects .zn_header_bottom_style , #slideshow.uh_recent_projects .zn_header_bottom_style {position:absolute; bottom:0; left:0; width:100%; height:20px; background:url(../images/shadow-up.png) no-repeat center bottom; z-index: 2;}#page_header.uh_recent_projects .zn_header_bottom_style:after , #slideshow.uh_recent_projects .zn_header_bottom_style:after {content:''; position:absolute; bottom:-18px; left:50%; border:6px solid transparent; border-top-color:#fff; margin-left:-6px;}#page_header.uh_recent_projects, #slideshow.uh_recent_projects {border-bottom:6px solid #FFFFFF}#page_header.uh_recent_projects .zn_header_bottom_style:before , #slideshow.uh_recent_projects .zn_header_bottom_style:before {content:''; position:absolute; bottom:-26px; left:0; width:100%; height:20px; background:url(../images/shadow-down.png) no-repeat center top; opacity:.6; filter:alpha(opacity=60);}/* GENERAL COLOR */
+
+	 a:hover, 
+	.cart_details .checkout, 
+	.info_pop .buyit, 
+	.m_title, 
+	.smallm_title, 
+	.circle_title, 
+	.feature_box .title, 
+	.services_box .title, 
+	.latest_posts.default-style .hoverBorder:hover h6, 
+	.latest_posts.style2 ul.posts .title, 
+	.latest_posts.style3 ul.posts .title, 
+	.recentwork_carousel li .details h4, 
+	.acc-group.default-style > button, 
+	.acc-group.style3 > button:after, 
+	.screenshot-box .left-side h3.title, 
+	.vertical_tabs .tabbable .nav>li>a:hover, 
+	.vertical_tabs .tabbable .nav>li.active>a, 
+	.services_box.style2 .box .list li, 
+	.shop-latest .tabbable .nav li.active a, 
+	.product-list-item:hover .details h3, 
+	.latest_posts.style3 ul.posts .title a,
+	.statbox h4 
+	{color:#b01c1c;}
+	
+	.acc-group.style3 > button:hover, 
+	.acc-group.style3 > button:hover:after 
+	{ color:#b01c1c ;}
+
+	.tabs_style1 > ul.nav > li.active > a, 
+	header.style1, 
+	header.style2 #logo a, 
+	header.style3 #logo a 
+	{border-top: 3px solid #b01c1c;}
+
+nav#main_menu > ul > li.active > a, 
+nav#main_menu > ul > li > a:hover, 
+nav#main_menu > ul > li:hover > a, 
+.social-icons li a:hover, 
+#action_box, 
+body .circlehover,
+body .flex-direction-nav li a:hover,
+body .iosSlider .item .caption.style1 .more:before,
+body .iosSlider .item .caption.style1 .more:after,
+body .iosSlider .item .caption.style2 .more,
+body .nivo-directionNav a:hover,
+body #wowslider-container a.ws_next:hover,
+body #wowslider-container a.ws_prev:hover,
+.br-next:hover, .br-previous:hover,
+body .ca-more,
+body .title_circle,
+body .title_circle:before,
+body ul.links li a,
+.hg-portfolio-sortable #portfolio-nav li a:hover, .hg-portfolio-sortable #portfolio-nav li.current a,
+.iosSlider .item .caption.style1 .more:before, .iosSlider .item .caption.style1 .more:after,
+.btn-flat ,
+body.woocommerce a.button:hover, 
+body.woocommerce button.button:hover, 
+body.woocommerce input.button:hover, 
+body.woocommerce #respond input#submit:hover, 
+body.woocommerce #content input.button:hover, 
+body.woocommerce-page a.button:hover, 
+body.woocommerce-page button.button:hover, 
+body.woocommerce-page input.button:hover, 
+body.woocommerce-page #respond input#submit:hover, 
+body.woocommerce-page #content input.button:hover,
+body.woocommerce a.button, 
+body.woocommerce button.button, 
+body.woocommerce input.button, 
+body.woocommerce #respond input#submit, 
+body.woocommerce #content input.button, 
+body.woocommerce-page a.button, 
+body.woocommerce-page button.button, 
+body.woocommerce-page input.button, 
+body.woocommerce-page #respond input#submit, 
+body.woocommerce-page #content input.button,
+body.woocommerce a.button.alt, 
+body.woocommerce button.button.alt, 
+body.woocommerce input.button.alt, 
+body.woocommerce #respond input#submit.alt, 
+body.woocommerce #content input.button.alt, 
+body.woocommerce-page a.button.alt, 
+body.woocommerce-page button.button.alt, 
+body.woocommerce-page input.button.alt, 
+body.woocommerce-page #respond input#submit.alt, 
+body.woocommerce-page #content input.button.alt,
+body .woocommerce a.button, 
+body .woocommerce button.button, 
+body .woocommerce input.button, 
+body .woocommerce #respond input#submit, 
+body .woocommerce #content input.button, 
+body .woocommerce-page a.button, 
+body .woocommerce-page button.button, 
+body .woocommerce-page input.button, 
+body .woocommerce-page #respond input#submit, 
+body .woocommerce-page #content input.button ,
+span.zonsale,
+.sidebar .widget ul.menu li.active > a,
+.sidebar .widget ul.product-categories li.active > a, 
+.sidebar .widget ul.pagenav li.active a, 
+.sidebar .widget ul.menu li.current-cat > a, 
+.sidebar .widget ul.product-categories li.current-cat > a, 
+.sidebar .widget ul.pagenav li.current-cat > a, 
+.sidebar .widget ul.menu li > a:hover, 
+.sidebar .widget ul.product-categories li > a:hover, 
+.sidebar .widget ul.pagenav li a:hover,
+#limited_offers li:after,
+.login-panel .create_account, 
+.login-panel input[type=submit], 
+.register-panel input[type=submit], 
+.forgot-panel input[type=submit], 
+.login-panel .login_facebook {background-color:#b01c1c;}
+
+span.zonsale:before ,#limited_offers li:before{border-color:#b01c1c  transparent transparent;}
+
+	.how_to_shop .number, .newsletter-signup input[type=submit], .vertical_tabs .tabbable .nav>li.active>a>span, .vertical_tabs .tabbable .nav>li>a:hover>span, #map_controls, .hg-portfolio-sortable #portfolio-nav li.current a, .ptcarousel .controls > a:hover, .itemLinks span a:hover, .product-list-item .details .actions a, .shop-features .shop-feature:hover, .btn-flat, .redbtn, #sidebar ul.menu li a:hover, .imgboxes_style1 .hoverBorder h6, .feature_box.style3 .box:hover, .services_box .box:hover .icon, .latest_posts.default-style .hoverBorder h6, .process_steps .step.intro, .recentwork_carousel.style2 li a .details .plus, .gobox.ok, .hover-box:hover, .recentwork_carousel li .details > .bg, .circlehover:before,.iosSlider .item .caption.style1 .more:before, .iosSlider .item .caption.style1 .more:after ,.iosSlider .item .caption.style2 .more {background-color:#b01c1c;}
+	#action_box:before ,#action_box:after, header#header.style1{border-top-color:#b01c1c;}
+
+	/* BORDER LEFT */
+	.process_steps .step.intro:after,
+	body .nivo-caption,
+	body .flex-caption,
+	body #wowslider-container .ws-title
+	{border-left-color:#b01c1c; }
+
+	.theHoverBorder:hover {box-shadow:0 0 0 5px #b01c1c inset;}
+
+	.offline-page .containerbox {border-bottom:5px solid #b01c1c; }
+
+	.offline-page .containerbox:after {border-top: 20px solid #b01c1c;}
+
+	header#header.style2 #logo a {border-top: 3px solid #b01c1c;}
+
+	body .iosSlider .item .caption.style2 .title_big, body .iosSlider .item .caption.style2 .title_small {border-left: 5px solid #b01c1c; }
+	body .iosSlider .item .caption.style2.fromright .title_big, body .iosSlider .item .caption.style2.fromright .title_small {border-right: 5px solid #b01c1c ; }
+
+
+
+/* HEADINGS */
+h1 , .page-title{
+	
+	font-family:Open Sans;	font-size:36px;	line-height:40px;
+
+}
+
+h2 {
+	
+	font-family:Open Sans;	font-size:30px;	line-height:40px;
+
+}
+
+h3 {
+	
+	font-family:Open Sans;	font-size:24px;	line-height:40px;
+
+}
+
+h4 {
+	
+	font-family:Belgrano;	font-size:14px;	line-height:20px;
+
+}
+
+h5 {
+	
+	font-family:Open Sans;	font-size:12px;	line-height:20px;
+
+}
+
+h6 {
+	
+	font-family:Open Sans;	font-size:12px;	line-height:20px;
+
+}
+
+/* Body */
+body{
+	
+	font-family:Open Sans;	font-size:13px;	line-height:19px;	
+}
+/* Grey Area */
+body .gray-area {
+	
+	font-family:Open Sans;	font-size:13px;	line-height:19px;	
+}
+/* Footer Area */
+body #footer {
+	
+	font-family:Open Sans;	font-size:13px;	line-height:19px;	
+}
+
+body #page_wrapper , body.boxed #page_wrapper {
+			background-repeat:repeat;
+	background-position:left top;
+	background-attachment:scroll;
+}
+
+.gray-area {
+			background-repeat:repeat;
+	background-position:left top;
+	background-attachment:scroll;
+}
+
+
+header#header , .oldie #page_wrapper header#header{
+	background-color:#000000;
+	background-image:none;	background-repeat:repeat;
+	background-position:left top;
+	background-attachment:scroll;
+
+}
+
+footer#footer {
+					
+}
+
+footer#footer .bottom{
+	border-top:5px solid #484848;}
+
+
+nav#main_menu > ul > li > a {
+	
+	font-family:"PT Sans Narrow" , "Helvetica Neue", Helvetica, Arial, sans-serif;	font-size:16px;	line-height:14px;	color:#ffffff;	font-style:normal;
+}
+
+
+
+.topnav > li > a { color:#240202 ;}.topnav > li > a:hover { color:#362828 ;}header#header.style2 #logo a{
+
+background: none repeat scroll 0% 0% rgba(0, 0, 0, 0);
+
+ margin-top: -20px;
+
+border-bottom: none;
+
+}
+
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+    nav#main_menu{ margin-top: 40px;}
+
+header#header.style2 #logo a {margin-top: -20px;}
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:1199px) and (min-width:980px) {
+
+
+
+nav#main_menu{
+
+
+
+margin-top: -40px;
+
+background: #000;
+
+padding-right: 20px;
+
+padding-left: 10px;
+
+border-radius: 12px;
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width:1024px) and (min-width:768px) {
+
+
+
+   @-moz-document url-prefix() {
+
+      nav#main_menu {
+
+        margin-top:30px;
+
+    }
+
+  .iosSlider .zn_slideshow .hideControls {
+
+        height: 450px;
+
+  }
+
+ #action_box {
+
+    margin-top: 62px;
+
+   }
+
+
+
+}
+
+
+
+
+
+nav#main_menu{
+
+background: #000;
+
+}
+
+
+
+
+
+:root nav#main_menu{ margin-top: -40px; �/IE9; }  /* IE9 */
+
+
+
+
+
+select.mobileMenu {
+
+display:none !important;
+
+}
+
+
+
+
+
+
+
+@media screen (max-width: 480px) {
+
+select.mobileMenu {
+
+display:none !important;
+
+text-align:left;
+
+}
+
+}
+
+
+
+
+
+
+
+

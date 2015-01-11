@@ -1,0 +1,1182 @@
+/*
+
+
+
+Theme Name:     Kallyas Child Theme
+
+
+
+Theme URI:      http://hogash-demo.com/kallyas_wp/
+
+
+
+Description:    Child theme for the Kallyas theme 
+
+
+
+Author:         Your name here
+
+
+
+Author URI:     http://themeforest.net/user/hogash
+
+
+
+Template:       kallyas
+
+
+
+Version:        2.3
+
+
+
+*/
+
+
+
+
+
+.span6 iframe {
+
+	width : 560px !important;
+
+	height : 325px !important;
+
+}
+
+#search {
+  margin-top: 10px;
+  width: 200px;
+  margin-right: -18px;
+}
+
+
+
+.li-title {
+
+	padding-bottom: 40px;
+
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+#logo a img {
+	margin-left: -26px;
+}
+
+#slideshow .container {
+	padding-top: 0;
+}
+
+.iosSlider .item .caption {
+	bottom: 119px !important;
+}
+
+body.res1170 .iosSlider .item .caption {
+	margin-left: -450px;
+}
+
+
+
+
+
+/*.tabimage {
+
+	background: none !important;
+
+}*/
+
+/* Smartphones (portrait and landscape) ----------- */
+
+@media (max-width : 480px) {
+
+/* Styles */
+
+	section#content {
+
+margin-top: 30px !important;
+
+}
+
+	header#header, .oldie #page_wrapper header#header {
+		min-height: 170px;
+	}
+
+	h1, .page-title {
+		height: 130px;
+	}
+
+	#wprmenu_menu .wprmenu_icon_par {
+		left: 221px !important;
+	}
+
+	#head-top-industrial {
+
+	margin-top:-200px !important;
+
+	}
+
+	#search form input[type=text] {
+		width: 259px;
+		background-color: #fff;
+		padding: 5px;
+		margin-bottom: 20px;
+	}
+
+
+
+	.mobile-header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #00274c;
+	}
+
+	a.mobile-nav-icon {
+		padding: 0 15px;
+		display: block;
+		width: 94px;
+		height: 100%;
+		float: left;
+		border-right: solid 1px #20476c;
+		color: #ffffff;
+		font-size: 12px;
+		line-height: 41px;
+		font-family: 'HelveticaNeueW01-65Medi', Helvetica, Arial;
+	}
+
+	.iosSlider .slider .item {
+		max-height: 163px !important;
+		width: 333px;
+		top: 0;
+	}
+
+	body.res1170 .iosSlider .item .caption {
+		margin-bottom: 39px;
+		left: 317px;
+	}
+	
+	.iosSlider .item .caption.style1 .title_big {
+
+	font-size: 25px !important;
+
+	}
+
+
+
+	.iosSlider .item .caption .main_title {
+
+	font-size: 22px !important;
+
+}
+
+
+
+	
+
+	.span4.box.image-boxes.imgboxes_style1 {
+
+padding-top: 30px !important
+
+}	
+
+
+
+	.row {
+
+
+
+	margin-bottom:0px !important;
+
+}
+
+	.more-up {
+
+	display:none !important;
+
+}
+
+	
+
+	#text-2 , #text-3 , #widget_sp_image-2{
+
+ 	 	display: none !important;
+
+ 	 }
+
+	.numbered-listt li{
+
+	background-size: 30px auto !important;
+
+background-position: 30px 22px !important;
+
+}
+
+ 	ul.numbered-listt li p {
+
+ 		padding-left: 0px;
+
+ 	} 
+
+ 	#genbg {
+
+		height: 350px !important;
+
+	}
+
+	#co4 {
+
+		height: 715px !important;
+
+	}
+
+
+
+	.list2 ul {padding: 0 !important;}
+
+
+
+	iframe {
+
+		height: 100% !important;
+
+	}
+
+	section#content {
+
+		padding: 0px 2%;
+
+	}
+
+	/*PAGE*/
+
+    .uh_about_home_gens {
+
+    	height: 100%;
+
+		min-height: 300px;
+
+    }
+
+
+
+    .li-title {
+
+    	display: none !important;
+
+    }
+
+    .tabs_style1 > ul.nav > li {
+
+    	float: left !important;
+
+    	width: 15% ;
+
+    }
+
+    .tabs_style1 > ul.nav > li > a {
+
+    	width: 84% ;
+
+    	padding: 8px 10px !important;
+
+    	height: 35px !important;
+
+    }
+
+    .tabimage {
+
+    	width: 30px !important;
+
+    	height: auto !important;
+
+    	background: none !important;
+
+    }
+
+     .tabs_style1 > ul.nav > li.active > a {
+
+    	padding: 6px 8px 0px;
+
+    }
+
+
+
+}
+
+
+
+/* Smartphones (landscape) ----------- */
+
+
+
+@media  (max-width : 768px)  { /* STYLES GO HERE */
+
+	
+
+	#text-2 {
+
+ 	 	display: none !important;
+
+ 	 }
+
+ 	 .iosSlider .slider .item img {
+ 	 	top: 0;
+ 	 }
+
+ 	 body.res1170 .iosSlider .item .caption {
+ 	 	top:-100px;
+ 	 }
+
+
+	#head-top-industrial h1 {
+
+	font-size: 3em !important;
+
+}	
+
+
+
+	select.mobileMenu {
+
+		display:none !important;
+
+	}
+
+
+
+
+
+ 	 #footer .span4 {
+
+ 	 	width: 100%;
+
+ 	 	float: left;
+
+ 	 }
+
+ 	 
+
+
+
+ 	.widget_text .textwidget .pad-left p {
+
+ 		background: none !important;
+
+ 		padding-left: 20% !important;
+
+ 		text-align: justify !important;
+
+ 	}
+
+
+
+ 	#footer .emails {
+
+ 		display: none;
+
+ 	}
+
+ 	#footer .emails-mobile {display: block !important} ;
+
+}
+
+
+@media  (max-width : 475px)  { /* STYLES GO HERE */
+
+	
+
+	#text-2 {
+
+ 	 	display: none !important;
+
+ 	 }
+
+ 	 .iosSlider .slider .item img {
+ 	 	top: 0;
+ 	 }
+
+ 	 body.res1170 .iosSlider .item .caption {
+ 	 	top:3px;
+ 	 }
+
+
+	#head-top-industrial h1 {
+
+	font-size: 3em !important;
+
+}	
+
+
+
+	select.mobileMenu {
+
+		display:none !important;
+
+	}
+
+
+
+
+
+ 	 #footer .span4 {
+
+ 	 	width: 100%;
+
+ 	 	float: left;
+
+ 	 }
+
+ 	 
+
+
+
+ 	.widget_text .textwidget .pad-left p {
+
+ 		background: none !important;
+
+ 		padding-left: 20% !important;
+
+ 		text-align: justify !important;
+
+ 	}
+
+
+
+ 	#footer .emails {
+
+ 		display: none;
+
+ 	}
+
+ 	#footer .emails-mobile {display: block !important} ;
+
+}
+
+
+
+
+
+/* iPads (portrait and landscape) ----------- */
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+	header#header, .oldie #page_wrapper header#header {
+	height: 170px;
+	}
+
+	.gray-area iframe {
+
+		margin-top: 17% !important;
+
+	}
+
+	.gray-area .container .row .span6 p {
+
+		text-align: justify;
+
+	}
+
+	 .fiveball >ul.nav > li {
+
+ 	 	width: 18% ;
+
+ 	 }
+
+ 	 .fiveball >ul.nav > li> a > .tabimage{
+
+ 	 	width: 100%;
+
+ 	 }
+
+ /*	 .imgboxes_style1 img {
+
+	    width: 100%;
+
+	    height: 430px;
+
+	    margin-top: 10%;
+
+	}*/
+
+	.tabs_style1 > ul.nav > li > a  {
+
+		width: 120px;
+
+	}
+
+
+
+ 	  .imgboxes_style2 img {
+
+	    width: 100%;
+
+	    height: 430px;
+
+	    margin-top: 10%;
+
+	}
+
+	.zn_ib_style2 img {
+
+		width: 100% !important; 
+
+	    height: auto !important;
+
+	}
+
+	.pad-left {
+
+		padding-left: 1px;
+
+	}
+
+
+
+
+
+	#footmenu {
+
+		padding-left: 20px;
+
+	}
+
+
+
+}
+
+
+
+/* iPads (landscape) ----------- */
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+
+
+
+	#logo a img {
+
+		max-width: none;
+
+		width: 200px !important;
+
+		height: 70px !important;
+
+	}
+
+	
+
+
+	}
+
+	nav#main_menu > ul > li > a {
+
+		font-size: 16px !important;
+
+	}
+
+
+
+	.iosSlider {
+
+        height: 450px !important;
+
+ 	 }
+
+	 #action_box {
+
+    	margin-top: 18px !important;
+
+ 	 }
+
+ 	 #action_box h4.text {
+
+ 	 	font-size: 18px;
+
+ 	 }
+
+
+
+ 	 .fiveball >ul.nav > li {
+
+ 	 	width: 20% !important;
+
+ 	 }
+
+ 	 .tabs_style1 > ul.nav > li {
+
+ 	 	width: 16%;
+
+ 	 }
+
+ 	 .fiveball >ul.nav > li> a {
+
+    	padding: 8px 10px !important;
+
+	}
+
+ 	 .row .span6 .image-boxes img {
+
+ 	 	height: 445px !important;
+
+ 	 	width: 100% !important;
+
+ 	 }
+
+ 	 .gray-area .container .row .span6 iframe {
+
+ 	 	margin-top: 4% !important;
+
+ 	 	height: 350px !important;
+
+ 	 }
+
+ 	 .row .image-boxes span img {
+
+ 	 	margin-top: 12%;
+
+ 	 }
+
+ 	   .image-boxes img {
+
+	    width: 100%;
+
+	    height: auto;
+
+	}
+
+	.pad-left {
+
+		padding-left: 30px;
+
+	}
+
+	.iosSlider .slider .item img {
+		top: 0;
+	}		
+
+	 
+
+   }
+
+/* Styles */
+
+}
+
+
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation:portrait) {
+
+
+
+	#footmenu {
+
+		padding-left: 40px;
+
+	}
+
+	.tabs_style1 > ul.nav > li {
+
+		width: 20%;
+
+	}
+
+	.tabs_style1 > ul.nav > li > a {
+
+		width: 100% !important;
+
+	}
+
+	#action_box h4.text {
+
+		font-size: 13px !important;
+
+	}
+
+ 	 .span6 iframe {
+
+	width : 560px !important;
+
+	height : 390px !important;
+
+	}
+
+	.tabs_style1 > ul.nav > li {
+
+ 	 	width: 16%;
+
+ 	 }
+
+
+
+}
+
+
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (min-width : 1224px) {
+
+/* Styles */
+
+ 	#footmenu{
+
+	padding-left:100px;
+
+	}
+
+}
+
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width : 1824px) {
+
+/* Styles */
+
+	#footmenu{
+
+	padding-left:100px;
+
+	}
+
+
+
+	.more-up {
+
+		margin-right: -31% !important;
+
+	}
+
+	.more-down {
+
+		margin-right: -64% !important;
+
+	}
+
+}
+
+
+
+/* iPhone 4 ----------- */
+
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+/* Styles */
+
+}
+
+
+
+.tabbable li img:hover {
+
+opacity:0;
+
+}
+
+
+
+@media  (min-width : 769px) {
+
+	.foot_acc {
+
+		display: none !important;
+
+	}
+
+}
+
+
+
+
+
+@media  (max-width : 768px) {
+
+	.deskcol  {
+
+		display: none !important;
+
+	}
+
+}
+
+
+
+
+
+
+
+h2.ether-title.ether-toggle-button {
+
+color: #000 !important;
+
+}
+
+
+
+.pad-left {
+
+padding-left: 0px !important;
+
+}
+
+
+
+#footer {
+
+padding-top: 10px !important;
+
+}
+
+
+
+#page_header {
+
+display:none;
+
+}
+
+
+
+header#header {
+
+position: relative !important;
+
+margin-top: 0px !important;
+
+}
+
+
+
+section#content {
+
+margin-top: 60px;
+
+}
+
+
+
+.headtxt {
+
+position: absolute;
+
+}
+
+
+
+#imgcont {
+
+position:relative;
+
+}
+
+.imgwrap{
+
+max-height:345px;
+
+overflow:hidden;
+
+}
+
+.imgwrap img {
+
+width: 100%;
+
+
+
+}
+
+.page-id-77 .imgwrap img{
+
+margin-top:-108px;
+
+}
+
+.page-id-250 .imgwrap img{
+
+margin-top:-130px;
+
+}
+
+.page-id-500 .imgwrap img{
+
+margin-top: -110px;
+
+}
+
+
+
+
+
+@media  (min-width : 1025px) {
+
+	.iosSlider .slider .item img {
+
+
+
+	max-height: 450px;
+
+}
+
+
+
+#slideshow {
+
+
+
+height: auto !important;
+
+max-height:450px;
+
+/* padding: 0 0 38% 0; */
+
+padding: 0 !important;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+#genbg {
+
+position:relative;
+
+bottom: 30px;
+
+}
+
+
+
+.zn_header_bottom_style {
+
+position: relative;
+
+bottom: 20px;
+
+left: 0;
+
+width: 100%;
+
+height: 20px;
+
+background: url(http://poweraidcanada.com/wp-content/themes/kallyas2.3/kallyas/images/shadow-up.png) no-repeat center bottom;
+
+z-index: -999;
+
+}
+
+
+
+.zn_header_bottom_style:before {
+
+content: '';
+
+position: absolute;
+
+bottom: -26px;
+
+left: 0;
+
+width: 100%;
+
+height: 20px;
+
+background: url(http://poweraidcanada.com/wp-content/themes/kallyas2.3/kallyas/images/shadow-down.png) no-repeat center top;
+
+opacity: .6;
+
+}
+
+
+
+
+
+.zn_header_bottom_style:after {
+
+content: '';
+
+position: absolute;
+
+bottom: -18px;
+
+left: 50%;
+
+border: 6px solid transparent;
+
+border-top-color: #fff;
+
+margin-left: -6px;
+
+}
+
+
+
+.iosSlider {
+
+overflow: visible !important;
+
+}
+
+
+
+@media (min-width: 1100px) {
+
+
+
+.headtxt {
+
+
+
+margin-top: 20%;
+
+margin-left: 20%;
+
+}
+
+}
+
+
+
+section#content {
+
+margin-top: 30px !important;
+
+}
+
+
+
+.iosSlider .item .caption .main_title a {
+
+color:#fff;
+
+}
+
+
+
+.iosSlider .item .caption .main_title a:hover {
+
+color: #b01c1c;
+
+}
+
+
+
+
+
+
+
+
+
+.topheading{
+
+margin-top: -300px;
+
+}
+
+
+
+.page-id-500 .pagination{
+
+display:none;
+
+}
+
+
+
+@media (max-width: 480px) {
+
+
+
+.images-item{
+
+width:100% !important;
+
+margin-left:0px !important;
+
+}
+
+
+
+ul.filter li {
+
+margin-bottom:2px !important;
+
+width:100% important;
+
+float:none important;
+
+}
+
+
+
+ul.filter {
+
+margin-top:70px !important;
+
+}
+
+
+
+.topheading{
+
+margin-top: -500px  !important;
+
+}
+
+
+
+.topheadingh{
+
+line-height:60px;
+
+
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+.page-id-77 .gform_wrapper{
+
+margin-top:-50px;
+
+}
+
+
+
+.footer-logo{
+
+overflow: hidden;
+
+width: 60%;
+
+margin: 0 0 0 -6px;
+
+}
+
+
+
+.footer-logo img{
+
+max-width:none !important;
+
+}
+

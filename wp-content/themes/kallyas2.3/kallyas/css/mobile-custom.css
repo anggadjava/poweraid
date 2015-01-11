@@ -1,0 +1,88 @@
+@media (max-width: 480px) {
+
+h2{
+    line-height: 50px !important;    
+}
+    
+/* Industrial Generators Page  */   
+
+#head-top-industrial{ 
+margin-top: -380px !important;
+text-align: center !important;
+}
+
+#head-top-industrial h1{
+line-height: 60px !important;
+}
+
+
+/* About commercial Generators Page  */  
+
+#top-head-com{
+    margin-top: -430px !important;
+}
+
+#top-head-com h1{
+    line-height: 60px !important;
+}
+
+.btn-danger{
+    margin-left: 0 !important;
+}
+
+/* About commercial Generators - get a quote Page  */  
+.mycontent{
+    margin-top: -380px !important;
+}
+
+.mycontent h2{
+    font-size: 50px !important;
+    line-height: 55px !important;
+}
+
+#head-top-ins{
+    margin-top: -420px !important;
+}
+
+#bigarrow{
+    display: none;
+}
+
+#genimage{
+    width:400px !important;
+    height:300px !important;
+}
+
+  /*my-css*/
+#search{
+	width:95% !important;
+	margin-right: -7px;
+}
+ 
+.span4.box.image-boxes.imgboxes_style1{
+	text-align:center;
+}
+
+#footer{
+	text-align:center;
+}
+ 
+.pad-left{
+	padding-left:10px;
+} 
+
+.tabs_style1 > ul.nav > li > a{
+	width:auto !important;
+}
+
+.tabs_style1 > ul.nav > li{
+	float:none !important;
+}
+
+.tabs_style1 .tab-content,.span6{
+	text-align:center;
+}
+ 
+  /*my-css*/
+
+}

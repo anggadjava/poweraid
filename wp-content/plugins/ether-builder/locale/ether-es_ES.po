@@ -1,0 +1,2096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ether Content Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-24 10:03+0100\n"
+"PO-Revision-Date: 2012-08-29 12:27+0100\n"
+"Last-Translator: Enrique Errando Gil <contacto@elpuntografico.com>\n"
+"Language-Team: Por Design <contact.pordesign@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;ether::langr;ether::lang;"
+"ether::langn;ether::langx;langr;lang;langx;langn\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ether-builder.php:54 ../ether-builder.php:87
+#: ../admin/ether-builder.php:183 ../modules/builder.php:139
+msgid "Builder"
+msgstr "Builder"
+
+#: ../ether-builder.php:55 ../admin/ether-update.php:300
+msgid "Update"
+msgstr "Actualizar"
+
+#: ../ether-builder.php:56 ../admin/ether-license.php:92
+msgid "License"
+msgstr "Licencia"
+
+#: ../admin/ether-builder.php:140 ../modules/builder-widget.php:4123
+#: ../modules/builder-widget.php:4207 ../modules/builder-widget.php:4259
+msgid "Light"
+msgstr "Claro"
+
+#: ../admin/ether-builder.php:140 ../modules/builder-widget.php:4124
+#: ../modules/builder-widget.php:4208 ../modules/builder-widget.php:4260
+msgid "Dark"
+msgstr "Oscuro"
+
+#: ../admin/ether-builder.php:151
+#, php-format
+msgid "Hide builder tab for \"%s\" post type"
+msgstr "Ocultar pestaña del builder para el tipo de post \"%s\""
+
+#: ../admin/ether-builder.php:172
+#, php-format
+msgid "Hide \"%s\" builder widget"
+msgstr "Ocultar el widget \"%s\" del builder"
+
+#: ../admin/ether-builder.php:185 ../modules/builder-widget.php:60
+#: ../modules/builder-widget.php:125 ../modules/builder-widget.php:191
+#: ../modules/builder-widget.php:245 ../modules/builder-widget.php:361
+#: ../modules/builder-widget.php:427 ../modules/builder-widget.php:524
+#: ../modules/builder-widget.php:598 ../modules/builder-widget.php:661
+#: ../modules/builder-widget.php:850 ../modules/builder-widget.php:915
+#: ../modules/builder-widget.php:1001 ../modules/builder-widget.php:1152
+#: ../modules/builder-widget.php:1542 ../modules/builder-widget.php:1711
+#: ../modules/builder-widget.php:2167 ../modules/builder-widget.php:2490
+#: ../modules/builder-widget.php:2793 ../modules/builder-widget.php:3083
+#: ../modules/builder-widget.php:3276 ../modules/builder-widget.php:3378
+#: ../modules/builder-widget.php:3582 ../modules/builder-widget.php:3815
+#: ../modules/builder-widget.php:4032 ../modules/builder-widget.php:4135
+#: ../modules/builder-widget.php:4219 ../modules/builder-widget.php:4264
+msgid "General"
+msgstr "General"
+
+#: ../admin/ether-builder.php:189
+msgid "Show Builder tab by default"
+msgstr "Mostrar la pestaña del Builder por defecto"
+
+#: ../admin/ether-builder.php:190
+msgid "Hide \"Visual\" tab"
+msgstr "Ocultar la pestaña \"Visual\""
+
+#: ../admin/ether-builder.php:191
+msgid "Hide \"HTML\" tab"
+msgstr "Ocultar la pestaña \"HTML\""
+
+#: ../admin/ether-builder.php:192
+msgid "Hide Builder content on archive/listing pages"
+msgstr "Ocultar el contenido del Builder en las páginas de archivos/listado"
+
+#: ../admin/ether-builder.php:197
+msgid "Styles"
+msgstr "Estilos"
+
+#: ../admin/ether-builder.php:201
+msgid "Color scheme"
+msgstr "Esquema de color"
+
+#: ../admin/ether-builder.php:206
+msgid "Post types"
+msgstr "Tipos de post"
+
+#: ../admin/ether-builder.php:215
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../admin/ether-builder.php:217
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: ../admin/ether-license.php:61
+msgid "Envato"
+msgstr "Envato"
+
+#: ../admin/ether-license.php:62
+msgid "Ether"
+msgstr "Ether"
+
+#: ../admin/ether-license.php:82
+msgid "license key"
+msgstr "código de licencia"
+
+#: ../admin/ether-license.php:85
+msgid "license service"
+msgstr "servicio de licencia"
+
+#: ../admin/ether.php:41
+msgid "Welcome to Ether world"
+msgstr "Bienvenido al mundo Ether"
+
+#: ../admin/ether.php:43 ../admin/ether-update.php:303
+msgid "Framework &amp; Plugin info"
+msgstr "Información acerca del Framework &amp; Plugin"
+
+#: ../admin/ether.php:45
+msgid "Ether Framework"
+msgstr "Ether Framework"
+
+#: ../admin/ether.php:48
+msgid "Need help?"
+msgstr "Necesita ayuda?"
+
+#: ../admin/ether.php:49
+msgid ""
+"In case of a need of any further asistance that goes beyond the scope "
+"provided by plugin documentation please try the following:"
+msgstr ""
+"En caso de necesitar asistencia adicional a la proporcionada en la "
+"documentación del plugin, por favor, intente lo siguiente:"
+
+#: ../admin/ether.php:51
+msgid ""
+"Quick chat if we're around: irc #ether@quakenet.org (You can use <a href="
+"\"http://ether-wp.com/irc\">webirc</a> if you don't have an irc client "
+"installed.)"
+msgstr ""
+"Chatee con nosotros si estamos por aquí: irc #ether@quakenet.org (Puede usar "
+"<a href=\"http://ether-wp.com/irc\">webirc</a> si no tiene un cliente de irc "
+"instalado.)"
+
+#: ../admin/ether.php:52
+msgid ""
+"Email: <a href=\"mailto:contact.pordesign@gmail.com\">contact."
+"pordesign@gmail.com</a> - Note: When reporting plugin/theme incompatibility "
+"please include the following details in your message along with problem "
+"description for smoother turnaround:"
+msgstr ""
+"Email: <a href=\"mailto:contact.pordesign@gmail.com\">contact."
+"pordesign@gmail.com</a> - Nota: Cuando informe acerca de incompatibilidades "
+"del plugin/tema, por favor, incluya los siguientes detalles junto a la "
+"descripción del problema para que le podamos dar una mejor respuesta:"
+
+#: ../admin/ether.php:54
+msgid "your item purchase code you got after purchasing an item"
+msgstr "el código de adquisición del ítem que obtubo tras comprarlo"
+
+#: ../admin/ether.php:55
+msgid "zipped Plugin/Theme files so we can conduct local tests"
+msgstr ""
+"archivos comprimidos del Plugin/Tema para que podamos llevar a cabo pruebas "
+"locales"
+
+#: ../admin/ether.php:56
+msgid "FTP and WP admin login/pass to your installation"
+msgstr "FTP y usuario/contraseña del admin de WP a su instalación"
+
+#: ../admin/ether.php:59
+msgid ""
+"<a href=\"http://ether-wp.com/forum\">Forum</a> (posting is temporarily "
+"disabled)"
+msgstr ""
+"<a href=\"http://ether-wp.com/forum\">Foro</a> (la publicación de posts está "
+"temporalmente deshabilitada)"
+
+#: ../admin/ether-update.php:133
+msgid "Update in progress - do you really want to leave?"
+msgstr "Actualización en proceso - realmente quiere abandonar?"
+
+#: ../admin/ether-update.php:157
+msgid "Access denied. Aborting..."
+msgstr "Acceso denegado. Abortando..."
+
+#: ../admin/ether-update.php:172
+msgid "New update is available"
+msgstr "Nueva actualización disponible"
+
+#: ../admin/ether-update.php:176
+msgid "Everything is up to date"
+msgstr "Todo está al día"
+
+#: ../admin/ether-update.php:182
+msgid "Preparing update..."
+msgstr "Preparando actualización..."
+
+#: ../admin/ether-update.php:196
+msgid "Updating..."
+msgstr "Actualizando..."
+
+#: ../admin/ether-update.php:199
+msgid "Something gone wrong, check our servers status."
+msgstr "Algo ha salido mal, compruebe el estado de nuestros servidores."
+
+#: ../admin/ether-update.php:211
+msgid "Checking product filesystem..."
+msgstr "Comprobando producto del sistema de ficheros..."
+
+#: ../admin/ether-update.php:214
+msgid "Validating license key failed."
+msgstr "Validación del código de licencia fallido."
+
+#: ../admin/ether-update.php:225
+msgid "Connection timed out"
+msgstr "Tiempo de conexión terminado"
+
+#: ../admin/ether-update.php:228
+msgid "Connection aborted"
+msgstr "Conexión abortada"
+
+#: ../admin/ether-update.php:231
+msgid "Unknown error. Aborting..."
+msgstr "Error desconocido. Abortando..."
+
+#: ../admin/ether-update.php:251
+msgid "Validating product key..."
+msgstr "Validando código de licencia..."
+
+#: ../admin/ether-update.php:252
+#, php-format
+msgid "Checking for %s updates..."
+msgstr "Buscando actualizaciones para %s..."
+
+#: ../admin/ether-update.php:302
+msgid ""
+"In order to use auto update feature you have to <a href=\"admin.php?"
+"page=ether-ether-license\">provide license key</a> for this product"
+msgstr ""
+"Para poder usar la función de auto actualización, debe <a href=\"admin.php?"
+"page=ether-ether-license\">proporcionar el código de licencia</a> para este "
+"producto"
+
+#: ../admin/ether-update.php:308
+msgid "Product name"
+msgstr "Nombre del producto"
+
+#: ../admin/ether-update.php:309
+msgid "Check for updates"
+msgstr "Buscar actualizaciones"
+
+#: ../admin/ether-update.php:314
+msgid "Update now"
+msgstr "Actualizar ahora"
+
+#: ../admin/metabox/builder.php:112
+#, php-format
+msgid "%s hidden widgets"
+msgstr "Widgets ocultos de %s"
+
+#: ../admin/metabox/builder.php:112
+msgid "Show all widgets"
+msgstr "Mostrar todos los widgets"
+
+#: ../admin/metabox/builder.php:112
+msgid "Manage visible widgets"
+msgstr "Gestionar todos los widgets"
+
+#: ../admin/metabox/builder.php:113
+msgid "Filter widgets"
+msgstr "Filtar widgets"
+
+#: ../admin/metabox/builder.php:183 ../admin/metabox/builder.php:187
+#: ../modules/builder-widget.php:4456
+msgid "Add widget"
+msgstr "Añadir widget"
+
+#: ../admin/metabox/builder-post.php:163 ../admin/metabox/builder-post.php:165
+msgid "Templates"
+msgstr "Plantillas"
+
+#: ../admin/metabox/builder-post.php:163 ../admin/metabox/builder-post.php:167
+msgid "Load"
+msgstr "Cargar"
+
+#: ../admin/metabox/builder-post.php:163 ../admin/metabox/builder-post.php:174
+#: ../ether/ether.php:6441 ../modules/builder.php:1165
+msgid "Save"
+msgstr "Guardar"
+
+#: ../admin/metabox/builder-post.php:168 ../admin/metabox/builder-post.php:188
+#: ../modules/builder.php:1160 ../modules/builder-widget.php:1640
+#: ../modules/builder-widget.php:2121 ../modules/builder-widget.php:2760
+#: ../modules/builder-widget.php:3039 ../modules/builder-widget.php:3247
+#: ../modules/builder-widget.php:3748 ../modules/builder-widget.php:3982
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../admin/metabox/builder-post.php:172
+msgid "Save template"
+msgstr "Guardar plantilla"
+
+#: ../admin/metabox/builder-post.php:177 ../admin/metabox/builder-post.php:179
+#: ../modules/builder-widget.php:2478
+msgid "Featured"
+msgstr "Destacado"
+
+#: ../admin/metabox/builder-post.php:177
+msgid "Yes"
+msgstr "Sí"
+
+#: ../admin/metabox/builder-post.php:177
+msgid "No"
+msgstr "No"
+
+#: ../admin/metabox/builder-post.php:181
+msgid "Preview image"
+msgstr "Imagen de vista previa"
+
+#: ../admin/metabox/builder-post.php:181
+msgid "Change"
+msgstr "Cambiar"
+
+#: ../admin/metabox/builder-post.php:184 ../modules/builder-widget.php:262
+#: ../modules/builder-widget.php:371
+msgid "Image"
+msgstr "Imagen"
+
+#: ../admin/metabox/builder-post.php:185
+msgid "\"Alt\" description"
+msgstr "Descripción \"Alt\""
+
+#: ../admin/metabox/builder-post.php:187
+msgid "Upload"
+msgstr "Subir"
+
+#: ../admin/metabox/builder-post.php:193
+#, php-format
+msgid "This page is using Content builder. Learn more %shere%s."
+msgstr "Esta página está usando Content builder. Aprende más %saquí%s."
+
+#: ../ether/ether.php:429 ../modules/builder.php:1311
+#: ../modules/builder-widget.php:346 ../modules/builder-widget.php:822
+#: ../modules/builder-widget.php:994 ../modules/builder-widget.php:1658
+#: ../modules/builder-widget.php:3575 ../modules/builder-widget.php:3778
+#: ../modules/builder-widget.php:4328 ../modules/builder-widget.php:4332
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../ether/ether.php:2175
+msgid "less than a minute ago"
+msgstr "hace menos de un minuto"
+
+#: ../ether/ether.php:2178
+msgid "about a minute ago"
+msgstr "hace aproximadamente un minuto"
+
+#: ../ether/ether.php:2181
+#, php-format
+msgid "%s minutes ago"
+msgstr "hace %s minutos"
+
+#: ../ether/ether.php:2184
+msgid "about an hour ago"
+msgstr "hace aproximadamente una hora"
+
+#: ../ether/ether.php:2187
+#, php-format
+msgid "about %s hours ago"
+msgstr "hace aproximadamente %s horas"
+
+#: ../ether/ether.php:2190
+msgid "1 day ago"
+msgstr "hace 1 día"
+
+#: ../ether/ether.php:2193
+#, php-format
+msgid "%s days ago"
+msgstr "hace %s días"
+
+#: ../ether/ether.php:2827
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Buscar resultados para \"%s\""
+
+#: ../ether/ether.php:2836
+#, php-format
+msgid "Tag \"%s\""
+msgstr "Etiqueta \"%s\""
+
+#: ../ether/ether.php:2845
+#, php-format
+msgid "Author \"%s\""
+msgstr "Autor \"%s\""
+
+#: ../ether/ether.php:2851
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../ether/ether.php:2862 ../ether/ether.php:2865
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../ether/ether.php:2944
+msgid "Home"
+msgstr "Inicio"
+
+#: ../ether/ether.php:3274
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../ether/ether.php:6442 ../modules/builder-widget.php:357
+msgid "Reset"
+msgstr "Resetear"
+
+#: ../ether/ether.php:7247
+msgid "Choose images"
+msgstr "Escoger imágenes"
+
+#: ../ether/ether.php:7258 ../modules/builder-widget.php:2808
+#: ../modules/builder-widget.php:2818 ../modules/builder-widget.php:3828
+#: ../modules/builder-widget.php:3838 ../modules/builder-widget.php:4042
+#: ../modules/builder-widget.php:4052
+msgid "Insert images"
+msgstr "Insertar imágenes"
+
+#: ../modules/builder.php:22
+msgid "Main content"
+msgstr "Contenido principal"
+
+#: ../modules/builder.php:232
+msgid "Widget"
+msgstr "Widget"
+
+#: ../modules/builder.php:1158
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: ../modules/builder.php:1159 ../modules/builder-widget.php:2759
+#: ../modules/builder-widget.php:3038 ../modules/builder-widget.php:3747
+#: ../modules/builder-widget.php:3981
+msgid "Edit"
+msgstr "Editar"
+
+#: ../modules/builder.php:1213
+msgid "Grid Settings"
+msgstr "Configuración de la cuadrícula"
+
+#: ../modules/builder.php:1216 ../modules/builder-widget.php:1161
+#: ../modules/builder-widget.php:1547
+msgid "Columns"
+msgstr "Columnas"
+
+#: ../modules/builder.php:1217 ../modules/builder-widget.php:1157
+#: ../modules/builder-widget.php:1546
+msgid "Rows"
+msgstr "Filas"
+
+#: ../modules/builder.php:1217
+msgid ""
+"Row count applies only if element is a slider. If you want to limit element "
+"count for non slider elements set a proper 'Count' value if available or "
+"limit the amount of included elements"
+msgstr ""
+"El recuento de filas unicamente funciona si el elemento es un slider. Si "
+"quieres limitar el recuento de filas para elementos que no sean slider, "
+"establece un valor \"Recuento\" correcto si estuviese disponible ó limita la "
+"cantidad de elementos incluídos"
+
+#: ../modules/builder.php:1219
+msgid "Disable spacing"
+msgstr "Deshabilitar espaciado"
+
+#: ../modules/builder.php:1219
+msgid ""
+"Most useful for galleries with images/videos where you don't want spacing "
+"between elements to occur"
+msgstr ""
+"Muy útil para galerías con imágenes/vídeos en las que no quieres que exista "
+"espaciado entre elementos"
+
+#: ../modules/builder.php:1231 ../modules/builder-widget.php:354
+#: ../modules/builder-widget.php:654 ../modules/builder-widget.php:1084
+#: ../modules/builder-widget.php:3548
+msgid "Theme default"
+msgstr "Tema por defecto"
+
+#: ../modules/builder.php:1232 ../modules/builder-widget.php:355
+#: ../modules/builder-widget.php:3549
+msgid "Ether frame 1"
+msgstr "Marco Ether 1"
+
+#: ../modules/builder.php:1233 ../modules/builder-widget.php:356
+#: ../modules/builder-widget.php:3550
+msgid "Ether frame 2"
+msgstr "Marco Ether 2"
+
+#: ../modules/builder.php:1237 ../modules/builder.php:1246
+#: ../modules/builder-widget.php:3530 ../modules/builder-widget.php:3539
+msgid "Auto"
+msgstr "Auto"
+
+#: ../modules/builder.php:1238 ../modules/builder-widget.php:3531
+msgid "Short (200px)"
+msgstr "Corto (200px)"
+
+#: ../modules/builder.php:1239 ../modules/builder-widget.php:3532
+msgid "Medium (300px)"
+msgstr "Medio (300px)"
+
+#: ../modules/builder.php:1240 ../modules/builder-widget.php:3533
+msgid "Tall (400px)"
+msgstr "Alto (400px)"
+
+#: ../modules/builder.php:1241 ../modules/builder-widget.php:3534
+msgid "Constrain (max 400px)"
+msgstr "Restringir (máx 400px)"
+
+#: ../modules/builder.php:1247 ../modules/builder-widget.php:3540
+msgid "Stretch X"
+msgstr "Estirar en X"
+
+#: ../modules/builder.php:1248 ../modules/builder-widget.php:3541
+msgid "Stretch Y"
+msgstr "Estirar en Y"
+
+#: ../modules/builder.php:1249 ../modules/builder-widget.php:3542
+msgid "Fit"
+msgstr "Ajustar"
+
+#: ../modules/builder.php:1250 ../modules/builder-widget.php:3543
+msgid "Fill"
+msgstr "Rellenar"
+
+#: ../modules/builder.php:1255
+#, php-format
+msgid "50%%"
+msgstr "50%%"
+
+#: ../modules/builder.php:1256
+#, php-format
+msgid "75%%"
+msgstr "75%%"
+
+#: ../modules/builder.php:1257
+#, php-format
+msgid "100%%"
+msgstr "100%%"
+
+#: ../modules/builder.php:1258
+#, php-format
+msgid "150%%"
+msgstr "150%%"
+
+#: ../modules/builder.php:1259
+#, php-format
+msgid "200%%"
+msgstr "200%%"
+
+#: ../modules/builder.php:1266
+msgid "Elements Height"
+msgstr "Altura de los elementos"
+
+#: ../modules/builder.php:1266
+msgid ""
+"Constrain: Constrains element container size ratio to 1:1. If you want to "
+"constrain images size instead, use crop width/height fields below"
+msgstr ""
+"Restringir: Restringe el tamaño proporcional del contenedor del elemento a "
+"1:1. Si, por otro lado, quieres restringir el tamaño de las imágenes, "
+"utiliza los campos recortar ancho/altura siguientes"
+
+#: ../modules/builder.php:1267
+msgid "Constrain Ratio"
+msgstr "Restringir proporción"
+
+#: ../modules/builder.php:1267
+msgid "Height to width ratio for constrained galleries."
+msgstr "Proporción entre altura y ancho para galerías restringidas."
+
+#: ../modules/builder.php:1270
+msgid "Image mode"
+msgstr "Modo de imagen"
+
+#: ../modules/builder.php:1270
+msgid ""
+"Fit: Images will be scaled to fit available space. Stretch: Stretches images "
+"horizontally"
+msgstr ""
+"Ajustar: Las imágenes se escalarán para ajustarse al espacio disponible. "
+"Estirar: Estira las imágenes horizontalmente"
+
+#: ../modules/builder.php:1273
+msgid "Frame"
+msgstr "Marco"
+
+#: ../modules/builder.php:1277
+msgid "Disable lightbox"
+msgstr "Deshabilitar lightbox"
+
+#: ../modules/builder.php:1278
+msgid "Enable titles"
+msgstr "Habilitar títulos"
+
+#: ../modules/builder.php:1291
+msgid "Image width"
+msgstr "Ancho de la imagen"
+
+#: ../modules/builder.php:1291 ../modules/builder.php:1294
+msgid "\"0\" or blank field skips scaling through image width attribute."
+msgstr ""
+"\"0\" o dejar el campo en blanco omite el escalado mediante el atributo "
+"ancho de la imagen."
+
+#: ../modules/builder.php:1294
+msgid "Image height"
+msgstr "Altura de la imagen"
+
+#: ../modules/builder.php:1297
+msgid "Image crop width"
+msgstr "Recorte del ancho de la imagen"
+
+#: ../modules/builder.php:1297 ../modules/builder.php:1300
+msgid ""
+"\"0\" or blank field skips scaling/croping image. This function will "
+"generate thumbnail."
+msgstr ""
+"\"0\" o dejar el campo en blanco omite el escalado/recorte de la imagen. "
+"Esta función generará un thumbnail."
+
+#: ../modules/builder.php:1300
+msgid "Image crop height"
+msgstr "Recorte de la altura de la imagen"
+
+#: ../modules/builder.php:1312 ../modules/builder-widget.php:57
+#: ../modules/builder-widget.php:347 ../modules/builder-widget.php:457
+#: ../modules/builder-widget.php:510 ../modules/builder-widget.php:995
+#: ../modules/builder-widget.php:3056 ../modules/builder-widget.php:3576
+#: ../modules/builder-widget.php:3779
+msgid "Left"
+msgstr "Izquierda"
+
+#: ../modules/builder.php:1313 ../modules/builder-widget.php:57
+#: ../modules/builder-widget.php:348 ../modules/builder-widget.php:458
+#: ../modules/builder-widget.php:511 ../modules/builder-widget.php:996
+#: ../modules/builder-widget.php:3057 ../modules/builder-widget.php:3577
+#: ../modules/builder-widget.php:3780
+msgid "Right"
+msgstr "Derecha"
+
+#: ../modules/builder.php:1314 ../modules/builder-widget.php:57
+#: ../modules/builder-widget.php:349 ../modules/builder-widget.php:459
+#: ../modules/builder-widget.php:512 ../modules/builder-widget.php:997
+#: ../modules/builder-widget.php:3058 ../modules/builder-widget.php:3578
+#: ../modules/builder-widget.php:3781
+msgid "Center"
+msgstr "Centro"
+
+#: ../modules/builder.php:1321 ../modules/builder-widget.php:3819
+msgid "Widget Alignment"
+msgstr "Alineación del widget"
+
+#: ../modules/builder.php:1324
+msgid "Widget width"
+msgstr "Ancho del widget"
+
+#: ../modules/builder.php:1327
+msgid "Widget height"
+msgstr "Altura del widget"
+
+#: ../modules/builder.php:1388 ../modules/builder-widget.php:249
+#: ../modules/builder-widget.php:401 ../modules/builder-widget.php:541
+#: ../modules/builder-widget.php:606 ../modules/builder-widget.php:669
+#: ../modules/builder-widget.php:858 ../modules/builder-widget.php:949
+#: ../modules/builder-widget.php:1012 ../modules/builder-widget.php:1171
+#: ../modules/builder-widget.php:1554 ../modules/builder-widget.php:1743
+#: ../modules/builder-widget.php:2192 ../modules/builder-widget.php:2526
+#: ../modules/builder-widget.php:2831 ../modules/builder-widget.php:3131
+#: ../modules/builder-widget.php:3307 ../modules/builder-widget.php:3388
+#: ../modules/builder-widget.php:3606 ../modules/builder-widget.php:3862
+#: ../modules/builder-widget.php:4092 ../modules/builder-widget.php:4159
+#: ../modules/builder-widget.php:4228 ../modules/builder-widget.php:4295
+#: ../modules/builder-widget.php:4358 ../modules/builder-widget.php:4421
+msgid "Additional classes"
+msgstr "Clases adicionales"
+
+#: ../modules/builder-widget.php:9 ../modules/builder-widget.php:65
+msgid "Plain text"
+msgstr "Texto plano"
+
+#: ../modules/builder-widget.php:10
+msgid "Simple plain text widget"
+msgstr "Widget simple de texto plano"
+
+#: ../modules/builder-widget.php:63
+msgid "Text Align"
+msgstr "Alinear texto"
+
+#: ../modules/builder-widget.php:64
+msgid "Disable formatting"
+msgstr "Deshabilitar formato"
+
+#: ../modules/builder-widget.php:65 ../modules/builder-widget.php:602
+#: ../modules/builder-widget.php:665
+msgid "Plain text, shortcodes. Default wordpress formatting will be applied."
+msgstr ""
+"Texto plano, shortcodes. Se aplicará el formato por defecto de wordpress."
+
+#: ../modules/builder-widget.php:78
+msgid "Syntax Highlighter"
+msgstr "Resaltador de sintaxis"
+
+#: ../modules/builder-widget.php:79
+msgid "Syntax highlighter"
+msgstr "Resaltador de sintaxis"
+
+#: ../modules/builder-widget.php:97
+msgid "AS3"
+msgstr "AS3"
+
+#: ../modules/builder-widget.php:98
+msgid "Apple Script"
+msgstr "Apple Script"
+
+#: ../modules/builder-widget.php:99
+msgid "Bash"
+msgstr "Bash"
+
+#: ../modules/builder-widget.php:100
+msgid "C#"
+msgstr "C#"
+
+#: ../modules/builder-widget.php:101
+msgid "Cold Fusion"
+msgstr "Cold Fusion"
+
+#: ../modules/builder-widget.php:102
+msgid "C++"
+msgstr "C++"
+
+#: ../modules/builder-widget.php:103
+msgid "CSS"
+msgstr "CSS"
+
+#: ../modules/builder-widget.php:104
+msgid "Delphi"
+msgstr "Delphi"
+
+#: ../modules/builder-widget.php:105
+msgid "Diff"
+msgstr "Diff"
+
+#: ../modules/builder-widget.php:106
+msgid "Erlang"
+msgstr "Erlang"
+
+#: ../modules/builder-widget.php:107
+msgid "Groovy"
+msgstr "Groovy"
+
+#: ../modules/builder-widget.php:108
+msgid "Java Script"
+msgstr "Java Script"
+
+#: ../modules/builder-widget.php:109
+msgid "Java"
+msgstr "Java"
+
+#: ../modules/builder-widget.php:110
+msgid "JavaFX"
+msgstr "JavaFX"
+
+#: ../modules/builder-widget.php:111
+msgid "Perl"
+msgstr "Perl"
+
+#: ../modules/builder-widget.php:112
+msgid "PHP"
+msgstr "PHP"
+
+#: ../modules/builder-widget.php:113
+msgid "Plain"
+msgstr "Plain"
+
+#: ../modules/builder-widget.php:114
+msgid "Power Shell"
+msgstr "Power Shell"
+
+#: ../modules/builder-widget.php:115
+msgid "Python"
+msgstr "Python"
+
+#: ../modules/builder-widget.php:116
+msgid "Ruby"
+msgstr "Ruby"
+
+#: ../modules/builder-widget.php:117
+msgid "SASS"
+msgstr "SASS"
+
+#: ../modules/builder-widget.php:118
+msgid "Scala"
+msgstr "Scala"
+
+#: ../modules/builder-widget.php:119
+msgid "SQL"
+msgstr "SQL"
+
+#: ../modules/builder-widget.php:120
+msgid "Visual Basic"
+msgstr "Visual Basic"
+
+#: ../modules/builder-widget.php:121
+msgid "XML"
+msgstr "XML"
+
+#: ../modules/builder-widget.php:127
+msgid "Code type"
+msgstr "Tipo de código"
+
+#: ../modules/builder-widget.php:128
+msgid "Code"
+msgstr "Código"
+
+#: ../modules/builder-widget.php:141
+msgid "Rich text"
+msgstr "Texto enriquecido"
+
+#: ../modules/builder-widget.php:142
+msgid "Advance text editor powered by TinyMCE"
+msgstr "Editor avanzado de texto desarrollado por TinyMCE"
+
+#: ../modules/builder-widget.php:157
+msgid "Rich text editor has been disabled. Check your account settings."
+msgstr ""
+"El editor de texto enriquecido ha sido deshabilitado. Compruebe la "
+"configuración de su cuenta."
+
+#: ../modules/builder-widget.php:159 ../modules/builder-widget.php:179
+msgid "HTML"
+msgstr "HTML"
+
+#: ../modules/builder-widget.php:160
+msgid "Visual"
+msgstr "Visual"
+
+#: ../modules/builder-widget.php:180
+msgid "Simple HTML widget"
+msgstr "Widget simple de HTML"
+
+#: ../modules/builder-widget.php:193
+msgid "HTML code"
+msgstr "Código HTML"
+
+#: ../modules/builder-widget.php:193
+msgid "HTML code, shortcodes. No code formatting."
+msgstr "Código HTML, shortcodes. Sin formato de código."
+
+#: ../modules/builder-widget.php:206
+msgid "Heading"
+msgstr "Cabecera"
+
+#: ../modules/builder-widget.php:207
+msgid "Simple heading widget"
+msgstr "Widget simple de cabecera"
+
+#: ../modules/builder-widget.php:247 ../modules/builder-widget.php:1385
+#: ../modules/builder-widget.php:1401 ../modules/builder-widget.php:1635
+#: ../modules/builder-widget.php:2005 ../modules/builder-widget.php:2104
+#: ../modules/builder-widget.php:3033
+msgid "Title"
+msgstr "Título"
+
+#: ../modules/builder-widget.php:247
+msgid "If you leave this field blank, post title will be used"
+msgstr "Si deja este campo en blanco, se usará el título del post"
+
+#: ../modules/builder-widget.php:248 ../modules/builder-widget.php:601
+#: ../modules/builder-widget.php:1718 ../modules/builder-widget.php:3111
+#: ../modules/builder-widget.php:4149
+msgid "Type"
+msgstr "Tipo"
+
+#: ../modules/builder-widget.php:263
+msgid "Simple Image widget"
+msgstr "Widget simple de imagen"
+
+#: ../modules/builder-widget.php:363 ../modules/builder-widget.php:3120
+msgid "Align"
+msgstr "Alinear"
+
+#: ../modules/builder-widget.php:364
+msgid "Frame Style"
+msgstr "Estilo del marco"
+
+#: ../modules/builder-widget.php:367 ../modules/builder-widget.php:373
+msgid "Choose Image"
+msgstr "Escoger imagen"
+
+#: ../modules/builder-widget.php:383 ../modules/builder-widget.php:3123
+#: ../modules/builder-widget.php:3597 ../modules/builder-widget.php:3842
+#: ../modules/builder-widget.php:4056
+msgid "Image Settings"
+msgstr "Configuración de la imagen"
+
+#: ../modules/builder-widget.php:387
+msgid "Image Title"
+msgstr "Título de la imagen"
+
+#: ../modules/builder-widget.php:390
+msgid "Display title bar on hover"
+msgstr "Mostrar el título de la barra al pasar por encima"
+
+#: ../modules/builder-widget.php:394 ../modules/builder-widget.php:2756
+#: ../modules/builder-widget.php:3032
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: ../modules/builder-widget.php:395
+msgid "Open \"Link URL\" in lightbox"
+msgstr "Abrir la \"URL del enlace\" en lightbox"
+
+#: ../modules/builder-widget.php:399 ../modules/builder-widget.php:539
+#: ../modules/builder-widget.php:604 ../modules/builder-widget.php:667
+#: ../modules/builder-widget.php:856 ../modules/builder-widget.php:945
+#: ../modules/builder-widget.php:1010 ../modules/builder-widget.php:1169
+#: ../modules/builder-widget.php:1552 ../modules/builder-widget.php:1741
+#: ../modules/builder-widget.php:2190 ../modules/builder-widget.php:2524
+#: ../modules/builder-widget.php:2829 ../modules/builder-widget.php:3129
+#: ../modules/builder-widget.php:3305 ../modules/builder-widget.php:3386
+#: ../modules/builder-widget.php:3604 ../modules/builder-widget.php:3860
+#: ../modules/builder-widget.php:4090 ../modules/builder-widget.php:4157
+#: ../modules/builder-widget.php:4226 ../modules/builder-widget.php:4293
+msgid "Misc"
+msgstr "Misc"
+
+#: ../modules/builder-widget.php:414 ../modules/builder-widget.php:854
+#: ../modules/builder-widget.php:1636 ../modules/builder-widget.php:2115
+#: ../modules/builder-widget.php:3034 ../modules/builder-widget.php:3243
+msgid "Content"
+msgstr "Contenido"
+
+#: ../modules/builder-widget.php:415
+msgid "This widget will display content from your post editor."
+msgstr "Este widget mostrará contenido de tu editor de post."
+
+#: ../modules/builder-widget.php:429
+msgid ""
+"This widget will display content from your visual editor. Insert it wherever "
+"you'd like visual editor content to appear in relation to Ether Builder "
+"widgets."
+msgstr ""
+"Este widget mostrará el contenido introducido mediante su editor visual. "
+"Insértelo dónde quiera que aparezca el contenido del editor visual en "
+"relación a los widgets del Ether Builder. "
+
+#: ../modules/builder-widget.php:441
+msgid "Divider"
+msgstr "Divisor"
+
+#: ../modules/builder-widget.php:442
+msgid "Horizontal bar for dividing separate sections of the page."
+msgstr "Barra horizontal para dividir distintas secciones de la página."
+
+#: ../modules/builder-widget.php:463 ../modules/builder-widget.php:516
+msgid "Back to top"
+msgstr "Volver arriba"
+
+#: ../modules/builder-widget.php:464 ../modules/builder-widget.php:517
+msgid "^ top"
+msgstr "^ arriba"
+
+#: ../modules/builder-widget.php:465 ../modules/builder-widget.php:518
+msgid "&uarr; top"
+msgstr "&uarr; arriba"
+
+#: ../modules/builder-widget.php:466 ../modules/builder-widget.php:519
+msgid "Custom"
+msgstr "Personalizado"
+
+#: ../modules/builder-widget.php:526
+msgid "Clear divider"
+msgstr "Despejar divisor"
+
+#: ../modules/builder-widget.php:526
+msgid ""
+"Will force divider (and any content that follows) to appear under any left/"
+"right aligned object rather than next to it"
+msgstr ""
+"Forzará al divisor (y cualquier contenido que le siga) a colocarse bajo "
+"cualquier objeto alineado a la izquierda/derecha, en vez de colocarse a su "
+"lado."
+
+#: ../modules/builder-widget.php:527
+msgid "Include back to top link"
+msgstr "Incluir enlace para volver arriba"
+
+#: ../modules/builder-widget.php:530
+msgid "Back to top link alignment"
+msgstr "Alineación del enlace de volver arriba"
+
+#: ../modules/builder-widget.php:533
+msgid "Back to top link title"
+msgstr "Título del enlace de volver arriba"
+
+#: ../modules/builder-widget.php:534
+msgid "Custom title"
+msgstr "Título personalizado"
+
+#: ../modules/builder-widget.php:554 ../modules/builder-widget.php:602
+#: ../modules/builder-widget.php:4401
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../modules/builder-widget.php:555
+msgid "6 message box types for special notifications"
+msgstr "6 tipos de caja de mensaje para notificaciones especiales"
+
+#: ../modules/builder-widget.php:589
+msgid "Info"
+msgstr "Info"
+
+#: ../modules/builder-widget.php:590
+msgid "Warning"
+msgstr "Advertencia"
+
+#: ../modules/builder-widget.php:591
+msgid "Error"
+msgstr "Error"
+
+#: ../modules/builder-widget.php:592
+msgid "Download"
+msgstr "Descarga"
+
+#: ../modules/builder-widget.php:593
+msgid "Important"
+msgstr "Importante"
+
+#: ../modules/builder-widget.php:594
+msgid "Important alt"
+msgstr "Importante alt"
+
+#: ../modules/builder-widget.php:619
+msgid "Blockquote"
+msgstr "Bloque de cita"
+
+#: ../modules/builder-widget.php:620
+msgid "Turns given text into a blockquote."
+msgstr "Convierte el texto introducido a un bloque de cita."
+
+#: ../modules/builder-widget.php:655 ../modules/builder-widget.php:1085
+#: ../modules/builder-widget.php:1665 ../modules/builder-widget.php:3063
+msgid "Ether style 1"
+msgstr "Ether style 1"
+
+#: ../modules/builder-widget.php:656 ../modules/builder-widget.php:1086
+#: ../modules/builder-widget.php:1666 ../modules/builder-widget.php:3064
+msgid "Ether style 2"
+msgstr "Ether style 2"
+
+#: ../modules/builder-widget.php:657
+msgid "Ether style 3"
+msgstr "Estilo Ether 3"
+
+#: ../modules/builder-widget.php:664 ../modules/builder-widget.php:929
+#: ../modules/builder-widget.php:1154 ../modules/builder-widget.php:1544
+#: ../modules/builder-widget.php:1715 ../modules/builder-widget.php:2495
+#: ../modules/builder-widget.php:3087 ../modules/builder-widget.php:3281
+msgid "Style"
+msgstr "Estilo"
+
+#: ../modules/builder-widget.php:665
+msgid "Text"
+msgstr "Texto"
+
+#: ../modules/builder-widget.php:682
+msgid "List"
+msgstr "Lista"
+
+#: ../modules/builder-widget.php:683
+msgid "Unordered lists with 12 custom bullets."
+msgstr "Listas desordenadas con 12 símbolos personalizados."
+
+#: ../modules/builder-widget.php:823 ../modules/builder-widget.php:1488
+msgid "Check 1"
+msgstr "Visto 1"
+
+#: ../modules/builder-widget.php:824 ../modules/builder-widget.php:1489
+msgid "Check 2"
+msgstr "Visto 2"
+
+#: ../modules/builder-widget.php:825 ../modules/builder-widget.php:1490
+msgid "Check 3"
+msgstr "Visto 3"
+
+#: ../modules/builder-widget.php:826 ../modules/builder-widget.php:1491
+msgid "Arrow 1"
+msgstr "Flecha 1"
+
+#: ../modules/builder-widget.php:827 ../modules/builder-widget.php:1492
+msgid "Arrow 2"
+msgstr "Flecha 2"
+
+#: ../modules/builder-widget.php:828 ../modules/builder-widget.php:1493
+msgid "Arrow 3"
+msgstr "Flecha 3"
+
+#: ../modules/builder-widget.php:829 ../modules/builder-widget.php:1494
+msgid "Warning 1"
+msgstr "Advertencia 1"
+
+#: ../modules/builder-widget.php:830 ../modules/builder-widget.php:1495
+msgid "Warning 2"
+msgstr "Advertencia 2"
+
+#: ../modules/builder-widget.php:831 ../modules/builder-widget.php:1496
+msgid "Warning 3"
+msgstr "Advertencia 3"
+
+#: ../modules/builder-widget.php:832 ../modules/builder-widget.php:1497
+msgid "Error 1"
+msgstr "Error 1"
+
+#: ../modules/builder-widget.php:833 ../modules/builder-widget.php:1498
+msgid "Error 2"
+msgstr "Error 2"
+
+#: ../modules/builder-widget.php:834 ../modules/builder-widget.php:1499
+msgid "Error 3"
+msgstr "Error 3"
+
+#: ../modules/builder-widget.php:838
+msgid "1 Column (Default)"
+msgstr "1 Columna (Por defecto)"
+
+#: ../modules/builder-widget.php:839 ../modules/builder-widget.php:4473
+msgid "2 Columns"
+msgstr "2 Columnas"
+
+#: ../modules/builder-widget.php:840 ../modules/builder-widget.php:4488
+msgid "3 Columns"
+msgstr "3 Columnas"
+
+#: ../modules/builder-widget.php:841 ../modules/builder-widget.php:4503
+msgid "4 Columns"
+msgstr "4 Columnas"
+
+#: ../modules/builder-widget.php:842 ../modules/builder-widget.php:4518
+msgid "5 Columns"
+msgstr "5 Columnas"
+
+#: ../modules/builder-widget.php:843 ../modules/builder-widget.php:4533
+msgid "6 Columns"
+msgstr "6 Columnas"
+
+#: ../modules/builder-widget.php:844
+msgid "8 Columns"
+msgstr "8 Columnas"
+
+#: ../modules/builder-widget.php:845
+msgid "10 Columns"
+msgstr "10 Columnas"
+
+#: ../modules/builder-widget.php:846
+msgid "Inline"
+msgstr "En línea"
+
+#: ../modules/builder-widget.php:852
+msgid "Bullet"
+msgstr "Símbolo"
+
+#: ../modules/builder-widget.php:853
+msgid "List Items Layout"
+msgstr "Diseño de la lista de ítems"
+
+#: ../modules/builder-widget.php:854
+msgid "Plain text, shortcodes. <strong>One list item per line</strong>."
+msgstr ""
+"Texto plano, shortcodes. <strong>Un ítem de la lista por línea</strong>."
+
+#: ../modules/builder-widget.php:871
+msgid "Button"
+msgstr "Botón"
+
+#: ../modules/builder-widget.php:872
+msgid "Predefined button styles for hyperlinks."
+msgstr "Estilos predefinidos de botón para hipervínculos."
+
+#: ../modules/builder-widget.php:909
+msgid "Small"
+msgstr "Pequeño"
+
+#: ../modules/builder-widget.php:910
+msgid "Medium"
+msgstr "Medio"
+
+#: ../modules/builder-widget.php:911
+msgid "Big"
+msgstr "Grande"
+
+#: ../modules/builder-widget.php:920 ../modules/builder-widget.php:1458
+#: ../modules/builder-widget.php:1472
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../modules/builder-widget.php:923 ../modules/builder-widget.php:1006
+#: ../modules/builder-widget.php:1459 ../modules/builder-widget.php:1473
+msgid "URL"
+msgstr "URL"
+
+#: ../modules/builder-widget.php:934
+msgid "Set Colors"
+msgstr "Configurar los colores"
+
+#: ../modules/builder-widget.php:938
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: ../modules/builder-widget.php:938 ../modules/builder-widget.php:941
+#: ../modules/builder-widget.php:1386 ../modules/builder-widget.php:1402
+#: ../modules/builder-widget.php:2105 ../modules/builder-widget.php:2106
+msgid "hex, rgb or rgba. Overrides default."
+msgstr "hex, rgb o rgba. Sobreescribe el por defecto."
+
+#: ../modules/builder-widget.php:941
+msgid "Text color"
+msgstr "Color de texto"
+
+#: ../modules/builder-widget.php:949
+msgid "Space-separated"
+msgstr "Separado por espacios"
+
+#: ../modules/builder-widget.php:964
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../modules/builder-widget.php:965
+msgid "YouTube, Vimeo or Blip.tv"
+msgstr "YouTube, Vimeo o Blip.tv"
+
+#: ../modules/builder-widget.php:1006
+msgid "YouTube, Vimeo or Blip.tv url."
+msgstr "YouTube, Vimeo o Blip.tv url."
+
+#: ../modules/builder-widget.php:1025
+msgid "Table"
+msgstr "Tabla"
+
+#: ../modules/builder-widget.php:1026
+msgid "Generate custom table."
+msgstr "Genera una tabla personalizada."
+
+#: ../modules/builder-widget.php:1158
+msgid "Highlight first row"
+msgstr "Destacar la primera fila"
+
+#: ../modules/builder-widget.php:1162
+msgid "Highlight first column"
+msgstr "Destacar la primera columna"
+
+#: ../modules/builder-widget.php:1187
+msgid "Pricing table"
+msgstr "Tabla de precios"
+
+#: ../modules/builder-widget.php:1188
+msgid "Generate pricing table."
+msgstr "Genera una tabla de precios."
+
+#: ../modules/builder-widget.php:1380
+msgid "Column name"
+msgstr "Nombre de columna"
+
+#: ../modules/builder-widget.php:1386 ../modules/builder-widget.php:1402
+msgid "Background"
+msgstr "Fondo"
+
+#: ../modules/builder-widget.php:1416
+msgid "Column price"
+msgstr "Precio de columna"
+
+#: ../modules/builder-widget.php:1421 ../modules/builder-widget.php:1438
+#: ../modules/builder-widget.php:2169
+msgid "Currency"
+msgstr "Moneda"
+
+#: ../modules/builder-widget.php:1422 ../modules/builder-widget.php:1439
+#: ../modules/builder-widget.php:2109
+msgid "Price (main)"
+msgstr "Precio (principal)"
+
+#: ../modules/builder-widget.php:1423 ../modules/builder-widget.php:1440
+#: ../modules/builder-widget.php:2112
+msgid "Price (tail)"
+msgstr "Precio (resto)"
+
+#: ../modules/builder-widget.php:1454
+msgid "Column button"
+msgstr "Botón de columna"
+
+#: ../modules/builder-widget.php:1487 ../modules/builder-widget.php:1685
+#: ../modules/builder-widget.php:2003
+msgid "None"
+msgstr "Ninguno"
+
+#: ../modules/builder-widget.php:1503
+msgid "Column data"
+msgstr "Datos de columna"
+
+#: ../modules/builder-widget.php:1507 ../modules/builder-widget.php:1522
+msgid "Icon"
+msgstr "Icono"
+
+#: ../modules/builder-widget.php:1508 ../modules/builder-widget.php:1523
+msgid "Description"
+msgstr "Descripción"
+
+#: ../modules/builder-widget.php:1537 ../modules/builder-widget.php:3256
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: ../modules/builder-widget.php:1538 ../modules/builder-widget.php:3257
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: ../modules/builder-widget.php:1548
+msgid "First column aside"
+msgstr "Primera columna aparte"
+
+#: ../modules/builder-widget.php:1633 ../modules/builder-widget.php:2102
+#: ../modules/builder-widget.php:2751 ../modules/builder-widget.php:3025
+#: ../modules/builder-widget.php:3239 ../modules/builder-widget.php:3736
+#: ../modules/builder-widget.php:3970
+msgid "Item"
+msgstr "Ítem"
+
+#: ../modules/builder-widget.php:1639 ../modules/builder-widget.php:2120
+#: ../modules/builder-widget.php:3037 ../modules/builder-widget.php:3246
+msgid "Rich Text Editor"
+msgstr "Editor de texto enriquecido"
+
+#: ../modules/builder-widget.php:1659 ../modules/builder-widget.php:1932
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ../modules/builder-widget.php:1660 ../modules/builder-widget.php:1933
+msgid "Vertical"
+msgstr "Vertical"
+
+#: ../modules/builder-widget.php:1719
+msgid "Constrain"
+msgstr "Restringir"
+
+#: ../modules/builder-widget.php:1722
+msgid "Current tab"
+msgstr "Pestaña actual"
+
+#: ../modules/builder-widget.php:1722
+msgid "Add some items first if nothing is displayed here"
+msgstr "Primero añada algunos ítemes si no se muestra nada aquí"
+
+#: ../modules/builder-widget.php:1724 ../modules/builder-widget.php:2171
+#: ../modules/builder-widget.php:2803 ../modules/builder-widget.php:3091
+#: ../modules/builder-widget.php:3286 ../modules/builder-widget.php:3823
+#: ../modules/builder-widget.php:4037
+msgid "Add Items"
+msgstr "Añadir ítems"
+
+#: ../modules/builder-widget.php:1728 ../modules/builder-widget.php:1737
+#: ../modules/builder-widget.php:2175 ../modules/builder-widget.php:2184
+#: ../modules/builder-widget.php:3095 ../modules/builder-widget.php:3104
+#: ../modules/builder-widget.php:3290 ../modules/builder-widget.php:3299
+msgid "Add Item"
+msgstr "Añadir ítem"
+
+#: ../modules/builder-widget.php:1756
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: ../modules/builder-widget.php:1757 ../modules/builder-widget.php:1770
+msgid "Generate tabbed content."
+msgstr "Genera contenido por pestañas."
+
+#: ../modules/builder-widget.php:1769
+msgid "Accordion"
+msgstr "Acordeón"
+
+#: ../modules/builder-widget.php:1923
+msgid "Slide"
+msgstr "Deslizar"
+
+#: ../modules/builder-widget.php:1924
+msgid "Slide in"
+msgstr "Deslizar hacia dentro"
+
+#: ../modules/builder-widget.php:1925
+msgid "Slide out"
+msgstr "Deslizar hacia afuera"
+
+#: ../modules/builder-widget.php:1926
+msgid "Switch"
+msgstr "Intercambiar"
+
+#: ../modules/builder-widget.php:1927 ../modules/builder-widget.php:1935
+#: ../modules/builder-widget.php:2009 ../modules/builder-widget.php:2480
+#: ../modules/builder-widget.php:3758
+msgid "Random"
+msgstr "Aleatorio"
+
+#: ../modules/builder-widget.php:1934 ../modules/builder-widget.php:3766
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: ../modules/builder-widget.php:1942 ../modules/builder-widget.php:4023
+#, php-format
+msgid "%s second"
+msgstr "% segundo"
+
+#: ../modules/builder-widget.php:1942 ../modules/builder-widget.php:4023
+#, php-format
+msgid "%s seconds"
+msgstr "% segundos"
+
+#: ../modules/builder-widget.php:1947
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: ../modules/builder-widget.php:1948
+msgid "Prev/Next buttons"
+msgstr "Botones Anterior/Siguiente"
+
+#: ../modules/builder-widget.php:1949
+msgid "Pagination"
+msgstr "Paginación"
+
+#: ../modules/builder-widget.php:1950
+msgid "Prev/Next buttons, pagination"
+msgstr "Paginación por botones Anterior/siguiente"
+
+#: ../modules/builder-widget.php:1953 ../modules/builder-widget.php:3846
+#: ../modules/builder-widget.php:4060
+msgid "Slider Settings"
+msgstr "Configuracion del slider"
+
+#: ../modules/builder-widget.php:1957
+msgid "Slider"
+msgstr "Slider"
+
+#: ../modules/builder-widget.php:1962
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ../modules/builder-widget.php:1963
+msgid "Scroll"
+msgstr "Desplazar"
+
+#: ../modules/builder-widget.php:1964 ../modules/builder-widget.php:3850
+msgid "Transition"
+msgstr "Transición"
+
+#: ../modules/builder-widget.php:1968 ../modules/builder-widget.php:4083
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: ../modules/builder-widget.php:1971
+msgid "Invert Autoplay Direction"
+msgstr "Invertir la dirección del Autoplay"
+
+#: ../modules/builder-widget.php:1974
+msgid "Autoplay interval"
+msgstr "Autoplay intervalo"
+
+#: ../modules/builder-widget.php:1993 ../modules/builder-widget.php:2020
+#: ../modules/builder-widget.php:2476
+msgid "All"
+msgstr "Todo"
+
+#: ../modules/builder-widget.php:2004
+msgid "ID"
+msgstr "ID"
+
+#: ../modules/builder-widget.php:2006
+msgid "Date"
+msgstr "Fecha"
+
+#: ../modules/builder-widget.php:2007
+msgid "Modified"
+msgstr "Modificado"
+
+#: ../modules/builder-widget.php:2008
+msgid "Parent"
+msgstr "Padre"
+
+#: ../modules/builder-widget.php:2010
+msgid "Menu order"
+msgstr "Orden de menú"
+
+#: ../modules/builder-widget.php:2015
+msgid "Ascending"
+msgstr "Ascendiente"
+
+#: ../modules/builder-widget.php:2016
+msgid "Descending"
+msgstr "Descendente"
+
+#: ../modules/builder-widget.php:2035
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: ../modules/builder-widget.php:2036
+msgid "Order"
+msgstr "Orden"
+
+#: ../modules/builder-widget.php:2037 ../modules/builder-widget.php:3593
+msgid "Count"
+msgstr "Recuento"
+
+#: ../modules/builder-widget.php:2051
+msgid "Pricing box"
+msgstr "Caja de precio"
+
+#: ../modules/builder-widget.php:2052
+msgid "Cool and elegant pricing boxes."
+msgstr "Cajas de precios chulas y elegantes."
+
+#: ../modules/builder-widget.php:2105
+msgid "BG Color"
+msgstr "Color de fondo"
+
+#: ../modules/builder-widget.php:2106
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: ../modules/builder-widget.php:2116
+msgid "Button label"
+msgstr "Etiqueta del botón"
+
+#: ../modules/builder-widget.php:2117
+msgid "Button url"
+msgstr "Url del botón"
+
+#: ../modules/builder-widget.php:2352 ../modules/builder-widget.php:4352
+msgid "View"
+msgstr "Vista"
+
+#: ../modules/builder-widget.php:2427
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../modules/builder-widget.php:2449
+msgid "Post style"
+msgstr "Estilo de post"
+
+#: ../modules/builder-widget.php:2450
+msgid "Gallery style"
+msgstr "Estilo de galería"
+
+#: ../modules/builder-widget.php:2469
+#, php-format
+msgid "%d words"
+msgstr "%d palabras"
+
+#: ../modules/builder-widget.php:2477
+msgid "Related"
+msgstr "Relacionados"
+
+#: ../modules/builder-widget.php:2479
+msgid "Popular"
+msgstr "Popular"
+
+#: ../modules/builder-widget.php:2499
+msgid "Trim words"
+msgstr "Recortar palabras"
+
+#: ../modules/builder-widget.php:2501
+msgid "Hide 'more' button"
+msgstr "Ocultar botón de \"más\""
+
+#: ../modules/builder-widget.php:2504
+msgid "Hide preview image"
+msgstr "Ocultar la imagen de vista previa"
+
+#: ../modules/builder-widget.php:2508
+msgid "Feed Settings"
+msgstr "Configuración del feed"
+
+#: ../modules/builder-widget.php:2513
+msgid "Select by"
+msgstr "Seleccionar por"
+
+#: ../modules/builder-widget.php:2517
+msgid "Preview Image Settings"
+msgstr "Configuración de la imagen de vista previa"
+
+#: ../modules/builder-widget.php:2539
+msgid "Post feed"
+msgstr "Feed de posts"
+
+#: ../modules/builder-widget.php:2540
+msgid "Add related/featured/recent posts from blog feed"
+msgstr "Añadir posts relacionados/destacados/recientes desde el blog del feed"
+
+#: ../modules/builder-widget.php:2553
+msgid "Page feed"
+msgstr "Feed de páginas"
+
+#: ../modules/builder-widget.php:2554
+msgid "Add related/featured/recent pages"
+msgstr "Añadir páginas relacionadas/destacadas/recientes"
+
+#: ../modules/builder-widget.php:2567
+msgid "Gallery"
+msgstr "Galería"
+
+#: ../modules/builder-widget.php:2568
+msgid "Creates custom gallery of images."
+msgstr "Crea una galería de imágenes personalizada"
+
+#: ../modules/builder-widget.php:2754 ../modules/builder-widget.php:3030
+#: ../modules/builder-widget.php:3741 ../modules/builder-widget.php:3975
+msgid "Image URL"
+msgstr "URL de la imagen"
+
+#: ../modules/builder-widget.php:2755 ../modules/builder-widget.php:3031
+#: ../modules/builder-widget.php:3742 ../modules/builder-widget.php:3976
+msgid "Image alt"
+msgstr "Imagen alt"
+
+#: ../modules/builder-widget.php:2799
+msgid "Front image only"
+msgstr "Solo imagen de portada"
+
+#: ../modules/builder-widget.php:2799
+msgid "Displays first image only, the rest is available via lightbox"
+msgstr "Muestra solo la primera imagen, el resto está disponible vía lightbox"
+
+#: ../modules/builder-widget.php:2807 ../modules/builder-widget.php:2817
+#: ../modules/builder-widget.php:3827 ../modules/builder-widget.php:3837
+#: ../modules/builder-widget.php:4041 ../modules/builder-widget.php:4051
+msgid "Add item"
+msgstr "Añadir ítem"
+
+#: ../modules/builder-widget.php:2822
+msgid "Item Settings"
+msgstr "Configuración del ítem"
+
+#: ../modules/builder-widget.php:2844
+msgid "Services"
+msgstr "Servicios"
+
+#: ../modules/builder-widget.php:2845
+msgid ""
+"Multipurpouse widget for displaying combination of images, titles and content"
+msgstr ""
+"Widget multipropósito para mostrar combinaciones de imágenes, títulos y "
+"contenido"
+
+#: ../modules/builder-widget.php:3048
+msgid "Icons (50x50 pixels)"
+msgstr "Iconos (50x50 píxeles)"
+
+#: ../modules/builder-widget.php:3049
+msgid "Images"
+msgstr "Imágenes"
+
+#: ../modules/builder-widget.php:3050
+msgid "Images only"
+msgstr "Solo imágenes"
+
+#: ../modules/builder-widget.php:3051
+msgid "Text only"
+msgstr "Solo texto"
+
+#: ../modules/builder-widget.php:3108
+msgid "Item Layout"
+msgstr "Diseño del ítem"
+
+#: ../modules/builder-widget.php:3113
+msgid "Hide title"
+msgstr "Ocultar título"
+
+#: ../modules/builder-widget.php:3116
+msgid "Overhead title"
+msgstr "Título superior"
+
+#: ../modules/builder-widget.php:3144
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: ../modules/builder-widget.php:3145
+msgid "Testimonials widget."
+msgstr "Widget de testimonios."
+
+#: ../modules/builder-widget.php:3241
+msgid "Author"
+msgstr "Autor"
+
+#: ../modules/builder-widget.php:3242
+msgid "Author URL"
+msgstr "URL del autor"
+
+#: ../modules/builder-widget.php:3320
+msgid "Twitter feed"
+msgstr "Feed de twitter"
+
+#: ../modules/builder-widget.php:3321
+msgid "Tweeter feed"
+msgstr "Feed de tweeter"
+
+#: ../modules/builder-widget.php:3381
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../modules/builder-widget.php:3401
+msgid "Flickr feed"
+msgstr "Feed de flickr"
+
+#: ../modules/builder-widget.php:3402
+msgid "Creates gallery from your flickr feed."
+msgstr "Crea una galería del feed de tu flickr"
+
+#: ../modules/builder-widget.php:3554
+msgid "-1"
+msgstr "-1"
+
+#: ../modules/builder-widget.php:3587
+msgid "Flickr ID"
+msgstr "ID de flickr"
+
+#: ../modules/builder-widget.php:3587
+msgid "Flickr's public feed ID."
+msgstr "ID público del feed de flickr"
+
+#: ../modules/builder-widget.php:3590
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../modules/builder-widget.php:3590
+msgid "A comma delimited list of tags to filter the feed by."
+msgstr "Un listado de etiquetas delimitado por comas para filtrar el feed."
+
+#: ../modules/builder-widget.php:3619 ../modules/builder-widget.php:3620
+msgid "Nivo slider"
+msgstr "Nivo slider"
+
+#: ../modules/builder-widget.php:3759
+msgid "Slice down"
+msgstr "Laminar abajo"
+
+#: ../modules/builder-widget.php:3760
+msgid "Slice down left"
+msgstr "Laminar abajo-izquierda"
+
+#: ../modules/builder-widget.php:3761
+msgid "Slice up"
+msgstr "Laminar arriba"
+
+#: ../modules/builder-widget.php:3762
+msgid "Slice left"
+msgstr "Laminar izquierda"
+
+#: ../modules/builder-widget.php:3763
+msgid "Slice up/down"
+msgstr "Laminar arriba/abajo"
+
+#: ../modules/builder-widget.php:3764
+msgid "Slice up/down left"
+msgstr "Laminar arriba/abajo-izquierda"
+
+#: ../modules/builder-widget.php:3765
+msgid "Fold"
+msgstr "Plegar"
+
+#: ../modules/builder-widget.php:3767
+msgid "Slide in right"
+msgstr "Deslizar a la derecha"
+
+#: ../modules/builder-widget.php:3768
+msgid "Slide in left"
+msgstr "Deslizar a la izquierda"
+
+#: ../modules/builder-widget.php:3769
+msgid "Box random"
+msgstr "Caja aleatoria"
+
+#: ../modules/builder-widget.php:3770
+msgid "Box rain"
+msgstr "Lluvia de cajas"
+
+#: ../modules/builder-widget.php:3771
+msgid "Box rain reverse"
+msgstr "Lluvia de cajas inversa"
+
+#: ../modules/builder-widget.php:3772
+msgid "Box rain grow"
+msgstr "Lluvia de cajas creciente"
+
+#: ../modules/builder-widget.php:3773
+msgid "Box rain grow reverse"
+msgstr "Lluvia de cajas creciente inversa"
+
+#: ../modules/builder-widget.php:3853
+msgid "Animation speed"
+msgstr "Velocidad de la animación"
+
+#: ../modules/builder-widget.php:3856
+msgid "Pause time"
+msgstr "Duración en pausa"
+
+#: ../modules/builder-widget.php:3876 ../modules/builder-widget.php:3877
+msgid "Roundabout slider"
+msgstr "Slider giratorio"
+
+#: ../modules/builder-widget.php:4028
+#, php-format
+msgid "%s%%"
+msgstr "%s%%"
+
+#: ../modules/builder-widget.php:4064
+msgid "Duration"
+msgstr "Duración"
+
+#: ../modules/builder-widget.php:4067
+msgid "Min scale"
+msgstr "Escala mín"
+
+#: ../modules/builder-widget.php:4070
+msgid "Max scale"
+msgstr "Escala máx"
+
+#: ../modules/builder-widget.php:4075
+msgid "Min opacity"
+msgstr "Opacidad mín"
+
+#: ../modules/builder-widget.php:4078
+msgid "Max opacity"
+msgstr "Opacidad máx"
+
+#: ../modules/builder-widget.php:4086
+msgid "Autoplay duration"
+msgstr "Duración del Autoplay"
+
+#: ../modules/builder-widget.php:4105 ../modules/builder-widget.php:4106
+msgid "Facebook Like Button"
+msgstr "Botón de \"Me gusta\" de Facebook"
+
+#: ../modules/builder-widget.php:4129
+msgid "Standard"
+msgstr "Estándar"
+
+#: ../modules/builder-widget.php:4130
+msgid "Button count"
+msgstr "Botón de recuento"
+
+#: ../modules/builder-widget.php:4131
+msgid "Box count"
+msgstr "Caja de recuento"
+
+#: ../modules/builder-widget.php:4137 ../modules/builder-widget.php:4221
+msgid "Page URL"
+msgstr "URL de página"
+
+#: ../modules/builder-widget.php:4137
+msgid "The URL to like."
+msgstr "URL al \"Me gusta\""
+
+#: ../modules/builder-widget.php:4140
+msgid "Width"
+msgstr "Ancho"
+
+#: ../modules/builder-widget.php:4143 ../modules/builder-widget.php:4269
+#: ../modules/builder-widget.php:4346
+msgid "Height"
+msgstr "Altura"
+
+#: ../modules/builder-widget.php:4146 ../modules/builder-widget.php:4223
+#: ../modules/builder-widget.php:4272
+msgid "Color"
+msgstr "Color"
+
+#: ../modules/builder-widget.php:4152 ../modules/builder-widget.php:4278
+msgid "Show Faces"
+msgstr "Mostrar caras"
+
+#: ../modules/builder-widget.php:4152 ../modules/builder-widget.php:4278
+msgid "Show profile photos in the plugin."
+msgstr "Muestra las fotos de perfil en el plugin."
+
+#: ../modules/builder-widget.php:4155 ../modules/builder-widget.php:4224
+#: ../modules/builder-widget.php:4289
+msgid "Facebook APPID"
+msgstr "APPID de Facebook"
+
+#: ../modules/builder-widget.php:4172 ../modules/builder-widget.php:4173
+msgid "Facebook Comments"
+msgstr "Comentarios de Facebook"
+
+#: ../modules/builder-widget.php:4221
+msgid "The URL to comment on."
+msgstr "URL en la que comentar."
+
+#: ../modules/builder-widget.php:4222
+msgid "Number of posts"
+msgstr "Número de posts"
+
+#: ../modules/builder-widget.php:4241 ../modules/builder-widget.php:4242
+msgid "Facebook Like Box"
+msgstr "Caja del \"Me gusta\" de Facebook"
+
+#: ../modules/builder-widget.php:4266
+msgid "Facebook page URL"
+msgstr "URL de la página de Facebook"
+
+#: ../modules/builder-widget.php:4266
+msgid "The URL of the Facebook Page for this like box."
+msgstr "URL de la página de Facebook para esta caja del \"Me gusta\""
+
+#: ../modules/builder-widget.php:4275
+msgid "Border color"
+msgstr "Color del borde"
+
+#: ../modules/builder-widget.php:4281
+msgid "Show stream"
+msgstr "Mostrar stream"
+
+#: ../modules/builder-widget.php:4281
+msgid "Show the profile stream for the public profile."
+msgstr "Mostrar el perfil del stream en el perfil público."
+
+#: ../modules/builder-widget.php:4284
+msgid "Show header"
+msgstr "Mostrar cabecera"
+
+#: ../modules/builder-widget.php:4284
+msgid ""
+"Show the \"Find us on Facebook\" bar at top. Only shown when either stream "
+"or faces are present."
+msgstr ""
+"Mostrar la barra \"Síganos en Facebook\" en la parte superior. Solo se "
+"muestra cuando el stream o las caras están presentes."
+
+#: ../modules/builder-widget.php:4308
+msgid "Google map"
+msgstr "Mapa google"
+
+#: ../modules/builder-widget.php:4309
+msgid "Insert a google map with a specified title and location"
+msgstr "Inserta un mapa de google con un título y una localización específicas"
+
+#: ../modules/builder-widget.php:4337
+msgid "Map"
+msgstr "Mapa"
+
+#: ../modules/builder-widget.php:4338
+msgid "Satellite"
+msgstr "Satélite"
+
+#: ../modules/builder-widget.php:4339
+msgid "Map + Terrain"
+msgstr "Mapa + Terreno"
+
+#: ../modules/builder-widget.php:4343
+msgid "Address"
+msgstr "Dirección"
+
+#: ../modules/builder-widget.php:4343
+msgid "Marks given location on the map."
+msgstr "Marcadores de localización en el mapa."
+
+#: ../modules/builder-widget.php:4349
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../modules/builder-widget.php:4355
+msgid "Show address bubble"
+msgstr "Mostrar el bocadillo de la dirección"
+
+#: ../modules/builder-widget.php:4370 ../modules/contact.php:17
+msgid "Contact form"
+msgstr "Formulario de contacto"
+
+#: ../modules/builder-widget.php:4371
+msgid "Classic contact form."
+msgstr "Formulario de contacto clásico"
+
+#: ../modules/builder-widget.php:4379
+msgid "Send"
+msgstr "Enviar"
+
+#: ../modules/builder-widget.php:4380
+msgid "Message sent"
+msgstr "Mensaje enviado"
+
+#: ../modules/builder-widget.php:4399
+msgid "Your name"
+msgstr "Tu nombre"
+
+#: ../modules/builder-widget.php:4400
+msgid "Email"
+msgstr "Email"
+
+#: ../modules/builder-widget.php:4417
+msgid "Recepient Email"
+msgstr "Email del destinatario"
+
+#: ../modules/builder-widget.php:4417
+msgid "Messages will be sent to this address."
+msgstr "Los mensajes se enviarán a esta dirección."
+
+#: ../modules/builder-widget.php:4418
+msgid "Button title"
+msgstr "Título del botón"
+
+#: ../modules/builder-widget.php:4420
+msgid "Sent message"
+msgstr "Mensaje enviado"
+
+#: ../modules/builder-widget.php:4420
+msgid "Notification text that appears after succesfull form submision."
+msgstr "Notificación que aparece tras el correcto envío del formulario"
+
+#: ../modules/builder-widget.php:4474 ../modules/builder-widget.php:4489
+#: ../modules/builder-widget.php:4504 ../modules/builder-widget.php:4519
+#: ../modules/builder-widget.php:4534 ../modules/builder-widget.php:4549
+#: ../modules/builder-widget.php:4564 ../modules/builder-widget.php:4579
+#: ../modules/builder-widget.php:4594 ../modules/builder-widget.php:4609
+#: ../modules/builder-widget.php:4624 ../modules/builder-widget.php:4639
+msgid "Columns. Place widgets inside them to create advanced layouts"
+msgstr "Columnas. Coloca widgets dentro de ellas para crear diseños avanzados"
+
+#: ../modules/builder-widget.php:4548
+msgid "2/3 + 1/3 Columns"
+msgstr "Columnas 2/3 + 1/3"
+
+#: ../modules/builder-widget.php:4563
+msgid "1/3 + 2/3 Columns"
+msgstr "Columnas 1/3 + 2/3"
+
+#: ../modules/builder-widget.php:4578
+msgid "3/4 + 1/4 Columns"
+msgstr "Columnas 3/4 + 1/4"
+
+#: ../modules/builder-widget.php:4593
+msgid "1/4 + 3/4 Columns"
+msgstr "Columnas 1/4 + 3/4"
+
+#: ../modules/builder-widget.php:4608
+msgid "1/2 + 1/4 + 1/4 Columns"
+msgstr "Columnas 1/2 + 1/4 + 1/4"
+
+#: ../modules/builder-widget.php:4623
+msgid "1/4 + 1/2 + 1/4 Columns"
+msgstr "Columnas 1/4 + 1/2 + 1/4"
+
+#: ../modules/builder-widget.php:4638
+msgid "1/4 + 1/4 + 1/2 Columns"
+msgstr "Columnas 1/4 + 1/4 + 1/2"
+
+#~ msgid "Thank you for purchasing this plugin."
+#~ msgstr "Gracias por adquirir este plugin."
+
+#~ msgid "\"0\" or blank field skips scaling through image height attribute."
+#~ msgstr ""
+#~ "\"0\" o dejar el campo en blanco omite el escalado mediante el atributo "
+#~ "altura de la imagen."
+
+#~ msgid "Ether 3"
+#~ msgstr "Ether 3"
+
+#~ msgid "Auto if left blank"
+#~ msgstr "Auto si se deja en blanco"
+
+#~ msgid "Add tab"
+#~ msgstr "Añadir pestaña"
+
+#~ msgid "Add box"
+#~ msgstr "Añadir caja"
+
+#~ msgid "Alt"
+#~ msgstr "Alt"
+
+#~ msgid "Add service"
+#~ msgstr "Añadir servicio"
+
+#~ msgid "Add testimonial"
+#~ msgstr "Añadir testimonio"

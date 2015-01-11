@@ -1,0 +1,1 @@
+éf°T<?php exit; ?>a:1:{s:7:"content";a:6:{s:4:"path";s:47:"D:\wamp\www\poweraid/wp-content/uploads/2015/01";s:3:"url";s:52:"http://localhost/poweraid/wp-content/uploads/2015/01";s:6:"subdir";s:8:"/2015/01";s:7:"basedir";s:39:"D:\wamp\www\poweraid/wp-content/uploads";s:7:"baseurl";s:44:"http://localhost/poweraid/wp-content/uploads";s:5:"error";b:0;}}

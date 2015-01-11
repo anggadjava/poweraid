@@ -1,0 +1,38 @@
+.{}cols { margin: [[global_spacing/2]]px [[-global_spacing/2]]px; }
+* + .{}cols { margin-top: [[-global_spacing/2]]px; }
+.{}cols + .{}cols { margin-top: [[-global_spacing/2]]px;}
+.{}col > .{}cols:first-child { margin-top: [[-global_spacing/2]]px !important; }
+.{}col { padding: [[global_spacing/2]]px; }
+
+.{}ie7-grid-fix .{}col > .{}ie7-inner-col-wrap { margin: [["half_spacing"]]px !important; }
+
+@media screen and (max-width: 782px) {
+	.{}cols { margin: 8px -8px;  }
+	* + .{}cols { margin-top: -8px;}
+	.{}cols + .{}cols { margin-top: -8px; }
+	.{}col > .{}cols:first-child { margin-top: -8px !important; }
+	.{}col { padding: 8px;}
+
+	.{}cols + * { margin-top: 0px !important; }
+	.{}cols + .{}cols { margin-top: -8px !important; }
+
+	.{}col > *:first-child { margin-top: 0 !important; }
+	.{}col > *:last-child,
+	.{}col > *.{}last-child { margin-bottom: 0 !important;  }
+
+	.{}cols .{}col:nth-child(2+n) { padding-top: 0 !important;}
+	.{}cols-1 .{}col:nth-child(2+n) { padding-top: 8px !important;}
+}
+
+@media screen and (max-width: 540px) {
+	.{}cols,
+	.{}cols + .{}cols,
+	* + .{}cols { margin: 0 !important;}
+	.{}cols .{}col {padding: 0 !important; margin: 8px 0 !important; }
+}
+
+
+
+.{}cols.{}spacing-0 { margin: 0 !important; }
+.{}cols.{}spacing-0 .{}col { padding: 0 !important;}
+.{}cols + .{}cols.{}spacing-0 { margin-top: 0 !important; }

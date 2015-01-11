@@ -1,0 +1,28 @@
+.ether-multi.ether-tabs-orientation-y { float: left; position: relative;}
+.ether-block-ctrl-style-1 { position: relative; z-index: 100; } 
+.ether-comp-multi-1.ether-tabs-orientation-x .ether-block-ctrl > * { float: left; margin: 4px 5px 0 0; }
+.ether-comp-multi-1.ether-tabs-orientation-x .ether-content { clear: both; }
+.ether-multi.ether-tabs-orientation-y.ether-tabs-align-left .ether-content { float: none;}
+.ether-multi.ether-tabs-orientation-y.ether-tabs-align-right .ether-content { float: none;}
+
+.ether-cols { position: relative; float: left; width: 100%; left: -15px !important; }
+.ether-cols.ether-spacing-0 { left: 0px !important; }
+
+.ether-col { float: left; padding: 0;}
+.ether-cols .ether-ie7-padding-maker { padding: 0px 15px !important; margin-bottom: -5px !important; }
+.ether-cols .ether-ie7-padding-maker > :first-child { margin-top: 0 !important; }
+.ether-cols .ether-ie7-padding-maker > .ether-last-child { margin-bottom: 0 !important; }
+
+.ether-cols.ether-spacing-0 .ether-ie7-padding-maker { padding: 0 !important; }
+
+/*
+.ether-col { background: #aaa;}
+.ether-cols .ether-ie7-padding-maker { background: #ddd;}
+.ether-cols .ether-ie7-padding-maker > * { background: #aaa;}
+*/
+
+.ether-form input, 
+.ether-form select, 
+.ether-form textarea { 
+	width: auto !important;
+}

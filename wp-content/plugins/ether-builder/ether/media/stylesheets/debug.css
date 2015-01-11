@@ -1,0 +1,8 @@
+pre.debug { margin: 0; padding: 5px 2000px; margin-left: -2000px; margin-right: -2000px; white-space: pre-line; color: #eee; background: #000; border: 1px solid #ddd; z-index: 6666; /*display: none;*/ }
+pre.debug .line { float: right; }
+pre.debug + pre.debug { border-top: none; }
+pre.debug:before { font-weight: bold; content: 'Debug: '; padding-left: 5px; }
+pre.debug.warning:before { color: #ffff00; content: 'Warning: '; }
+pre.debug.error:before { color: #ff0000; content: 'Error: '; }
+
+.debug_toggle { position: absolute; right: 10px; margin-top: 6px; width: 16px; height: 16px; cursor: pointer; z-index: 6667; background-image: url('../images/icons/icon_alert.gif'); }
